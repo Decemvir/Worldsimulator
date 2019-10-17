@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/viewcontroller">
+        <file alias="fshader.glsl">Resources/Shaders/fshader.glsl</file>
+        <file alias="vshader.glsl">Resources/Shaders/vshader.glsl</file>
+    </qresource>
+</RCC>
