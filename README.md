@@ -18,3 +18,7 @@ How to install:
 if you chose to do a shadow build, you have to copy create a folder named 'viewcontroller' inside your shadow build directory and copy the folder and its contents of src/viewcontroller/Resources into the newly created viewcontroller-folder inside your shadow build directory
 
 to view documentation open docu/html/index.html
+
+
+Known Bugs:
+- doesnt visualise simulated world currently
