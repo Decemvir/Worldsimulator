@@ -5,9 +5,9 @@ Based on the works of David Jorzik, Felix Schwagereit, Torsten Wohlberedt, Elmar
 
 
 Prerequisites:
-A graphics driver capable of OpenGL
-Qt
-Qt-Creator (optional, can skip if you know what you do)
+- A graphics driver capable of OpenGL
+- Qt
+- Qt-Creator (optional, can skip if you know what you do)
 
 How to install:
 1. clone repository
