@@ -1,0 +1,14 @@
+<map id="LifeFormEntity::~LifeFormEntity" name="LifeFormEntity::~LifeFormEntity">
+<area shape="rect" id="node1" title="Deconstructor of class DestinyAdapter." alt="" coords="5,146,177,187"/>
+<area shape="rect" id="node2" href="$classLFJobHandler.html#a293a34ae3f2229ee481b8d38b2effb70" title="Deletes job queue for a specific life form." alt="" coords="225,64,428,91"/>
+<area shape="rect" id="node7" href="$classPlanetEntity.html#a4e57a79b7182cadf40593ff372313a57" title="Removes inhabitant from the planet." alt="" coords="227,153,426,180"/>
+<area shape="rect" id="node12" href="$classDestinyAdapter.html#acd8ea6afc3dcd2e99b7c034bb45fdb12" title="Remove lf from the pool of life form instances." alt="" coords="235,204,419,231"/>
+<area shape="rect" id="node3" href="$classLFJobHandler.html#a4aeadc950c839b111ae4d2f3abf35db3" title="Deletes all jobs of a job queue." alt="" coords="476,5,671,32"/>
+<area shape="rect" id="node5" href="$classLFJobHandler.html#aa73631008274babfcba6859a8310d251" title="Removes all jobs that contain pRef from targetLFs job queue." alt="" coords="485,57,662,98"/>
+<area shape="rect" id="node4" href="$classLFJobHandler.html#aac81159ba489c152c19e1e201a784f55" title="Deletes top priority job from a job queue." alt="" coords="719,5,909,32"/>
+<area shape="rect" id="node6" href="$classLFJob.html#ae3cc9298f866c4a2a6da5c444d77df83" title=" " alt="" coords="738,60,890,87"/>
+<area shape="rect" id="node8" href="$classPlanetEntity.html#a451fb8f39f4338d0e919ed021de33b7d" title="Checks if planet contains entity." alt="" coords="498,128,649,155"/>
+<area shape="rect" id="node10" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="490,179,657,205"/>
+<area shape="rect" id="node11" href="$classViewOfEntities.html#a564445bc63bf986949916e682c33e295" title="Removes entity from the list of children." alt="" coords="495,229,651,256"/>
+<area shape="rect" id="node9" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="732,135,896,161"/>
+</map>

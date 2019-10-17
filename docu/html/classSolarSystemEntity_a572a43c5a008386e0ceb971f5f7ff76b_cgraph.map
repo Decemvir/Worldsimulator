@@ -1,0 +1,4 @@
+<map id="SolarSystemEntity::clear" name="SolarSystemEntity::clear">
+<area shape="rect" id="node1" title="Remove all entities from the solarsystem." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a20d5d99d189a39e7f6f2185ecdc76bcc" title="Clears the list of children." alt="" coords="192,13,335,39"/>
+</map>

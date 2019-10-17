@@ -1,0 +1,10 @@
+<map id="DestinyAdapter" name="DestinyAdapter">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Client...." alt="" coords="309,491,500,788"/>
+<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="5,13,76,90"/>
+<area shape="rect" id="node5" href="$classLFJobHandler.html" title="Member of pattern Singleton. Member of pattern Facade as Facade. Member of pattern Command as Caller...." alt="" coords="93,160,292,428"/>
+<area shape="rect" id="node3" href="$classDestiny.html" title="Member of pattern Adapter as Adaptee. Member of pattern Singleton. Member of pattern ChainOfresponsib..." alt="" coords="422,211,617,377"/>
+<area shape="rect" id="node4" title=" " alt="" coords="738,255,869,333"/>
+<area shape="rect" id="node6" title=" " alt="" coords="100,5,253,97"/>
+<area shape="rect" id="node7" title=" " alt="" coords="278,13,465,90"/>
+<area shape="rect" id="node8" title=" " alt="" coords="901,255,1009,333"/>
+</map>

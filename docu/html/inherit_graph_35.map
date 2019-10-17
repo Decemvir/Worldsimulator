@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classDestiny.html" title="Member of pattern Adapter as Adaptee. Member of pattern Singleton. Member of pattern ChainOfresponsib..." alt="" coords="7,5,74,32"/>
+<area shape="rect" id="node2" href="$classDestinyAdapter.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Client...." alt="" coords="143,5,253,32"/>
+<area shape="rect" id="node3" href="$classGod.html" title="Member of pattern Factory as Product. Member of pattern Adapter as Adaptee. This is the interface for..." alt="" coords="17,436,64,463"/>
+<area shape="rect" id="node4" href="$classAlah.html" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of Alah can cr..." alt="" coords="174,512,222,539"/>
+<area shape="rect" id="node5" href="$classGodAdapter.html" title="Member of pattern Composite as Client. Member of pattern Adapter as Adapter and Target...." alt="" coords="153,360,243,387"/>
+<area shape="rect" id="node6" href="$classJesus.html" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of Jesus can c..." alt="" coords="170,411,226,437"/>
+<area shape="rect" id="node7" href="$classVeryHighDev__LF.html" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of VeryHighDev..." alt="" coords="139,461,257,488"/>
+<area shape="rect" id="node8" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="162,107,234,133"/>
+<area shape="rect" id="node9" href="$classLifeFormEntity.html" title="Member of pattern Composite as Leaf. Member of pattern Adapter as Adapter and Target...." alt="" coords="320,157,427,184"/>
+<area shape="rect" id="node13" href="$classLowDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="329,107,417,133"/>
+<area shape="rect" id="node10" href="$classLowDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="479,157,601,184"/>
+<area shape="rect" id="node11" href="$classMidDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="653,157,773,184"/>
+<area shape="rect" id="node12" href="$classHighDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="821,132,947,159"/>
+<area shape="rect" id="node14" href="$classMidDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="497,107,583,133"/>
+<area shape="rect" id="node15" href="$classHighDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="668,107,759,133"/>
+<area shape="rect" id="node16" href="$classPlanet.html" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="344,259,403,285"/>
+<area shape="rect" id="node17" href="$classPlanetEntity.html" title="Member of pattern Adapter as Adapter and Target. Redefines and adds to the interface functionality in..." alt="" coords="493,259,587,285"/>
+<area shape="rect" id="node18" href="$classQObject.html" title=" " alt="" coords="5,208,76,235"/>
+<area shape="rect" id="node19" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="170,309,226,336"/>
+<area shape="rect" id="node23" href="$classLFJobHandler.html" title="Member of pattern Singleton. Member of pattern Facade as Facade. Member of pattern Command as Caller...." alt="" coords="147,157,249,184"/>
+<area shape="rect" id="node24" href="$classLightHandler.html" title="Member of pattern Singleton. Member of pattern Facade as Facade. Defines a handler that simplifies th..." alt="" coords="151,208,245,235"/>
+<area shape="rect" id="node25" href="$classSimWidgetController.html" title="Represents the Controller of the Model&#45;View&#45;Controller Triggers the calculation of the next step,..." alt="" coords="127,259,269,285"/>
+<area shape="rect" id="node26" href="$classSimWidgetDatamodel.html" title="Represents the View of the Model&#45;View&#45;Controller Builds the view chain and passes the OpenGL events f..." alt="" coords="124,56,272,83"/>
+<area shape="rect" id="node20" href="$classViewOfEntities.html" title="Member of pattern Composite as Composite. Defines an abstract graphical element that can contain othe..." alt="" coords="320,309,427,336"/>
+<area shape="rect" id="node21" href="$classSolarSystemEntity.html" title="Member of pattern Facade as Subsystem classes. Implements interface functionality from the class View..." alt="" coords="475,309,605,336"/>
+<area shape="rect" id="node22" href="$classUniverseEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Singleton. Redefines and adds to t..." alt="" coords="487,360,593,387"/>
+<area shape="rect" id="node27" href="$classUniverse.html" title="Member of pattern Singleton. Member of pattern Adapter as Adaptee. An instance of this class represen..." alt="" coords="338,360,409,387"/>
+</map>

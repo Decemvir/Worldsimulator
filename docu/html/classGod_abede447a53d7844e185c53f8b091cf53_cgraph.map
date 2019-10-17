@@ -1,0 +1,4 @@
+<map id="God::createMidDevLF" name="God::createMidDevLF">
+<area shape="rect" id="node1" title="Creates a instance of a MidDev lifeform." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$classGod.html#a130718ebbc18ba1bd26e18c047707a3c" title="Returns the name of god." alt="" coords="200,5,307,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="God::SimulateTimeStep" name="God::SimulateTimeStep">
+<area shape="rect" id="node1" title="Simluates a single timestep &#45; it is used for doing something..." alt="" coords="5,71,165,98"/>
+<area shape="rect" id="node2" href="$classDestiny.html#a76e5692bc7db7488b8bb56e494be63ed" title="Create a problem for life form LF." alt="" coords="213,5,391,47"/>
+<area shape="rect" id="node4" href="$classGod.html#a5380c802a01a81052fe5a12cab8543f2" title="Returns the time of the by god created universe." alt="" coords="219,71,385,98"/>
+<area shape="rect" id="node6" href="$classDestiny.html#a00b3d4c02aff6f72dec6dc7f37b7aadc" title="Adds life form LF2 to the list of known life forms of LF1 and the other way around...." alt="" coords="217,122,387,149"/>
+<area shape="rect" id="node3" href="$classLifeForm.html#a6fe8453677cc2b2dbb98f46483236809" title="Solves a given problem.." alt="" coords="439,13,596,39"/>
+<area shape="rect" id="node5" href="$classUniverse.html#a6b95c394b56d36638de7e7700c6cf78b" title="Returns the time of the universe." alt="" coords="455,71,580,98"/>
+<area shape="rect" id="node7" href="$classLifeForm.html#a934b40ca0a80f965511376c66207a6fd" title="A life form is added to the list of friends, the calling object has." alt="" coords="443,122,591,149"/>
+</map>

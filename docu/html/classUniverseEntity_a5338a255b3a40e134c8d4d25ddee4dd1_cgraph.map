@@ -1,0 +1,4 @@
+<map id="UniverseEntity::contains" name="UniverseEntity::contains">
+<area shape="rect" id="node1" title="Check if universe contains specific entity." alt="" coords="5,29,168,56"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="216,29,380,56"/>
+</map>

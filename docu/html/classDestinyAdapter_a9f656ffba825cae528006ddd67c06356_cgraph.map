@@ -1,0 +1,7 @@
+<map id="DestinyAdapter::createProblemForLFE" name="DestinyAdapter::createProblemForLFE">
+<area shape="rect" id="node1" title="Creates a problem for a specific life form." alt="" coords="5,23,208,65"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#ae86b3df5cb081b057b8c319d14ea6ac2" title="Adds AnswerJob to the job queue of the life form." alt="" coords="256,31,447,57"/>
+<area shape="rect" id="node3" href="$classLFJobHandler.html#ad63bc49f12a8191acc7d86a68b7c2b06" title="Adds job to job queue of an specific life form." alt="" coords="498,5,649,32"/>
+<area shape="rect" id="node5" href="$classLifeForm.html#a6fe8453677cc2b2dbb98f46483236809" title="Solves a given problem.." alt="" coords="495,56,652,83"/>
+<area shape="rect" id="node4" href="$classLFJob.html#adf4db5d4feea21776090d22fa5402686" title="Returns working life form." alt="" coords="700,5,847,32"/>
+</map>

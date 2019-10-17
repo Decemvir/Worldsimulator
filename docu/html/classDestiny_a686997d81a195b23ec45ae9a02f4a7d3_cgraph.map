@@ -1,0 +1,6 @@
+<map id="Destiny::devolveLF" name="Destiny::devolveLF">
+<area shape="rect" id="node1" title="Creates a new lifeform." alt="" coords="5,56,136,83"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#ae0d1f6e2c790dcbf8a099cc343e15d18" title="Get the development level of the liveform." alt="" coords="201,5,336,32"/>
+<area shape="rect" id="node3" href="$classLifeForm.html#a43e5ce351679f09fb360fdfd0dc6eb4d" title="Returns the home planet of the lifeform." alt="" coords="184,56,353,83"/>
+<area shape="rect" id="node4" href="$classLifeForm.html#ae154496e65e561334720b59d07fc3687" title="The life begins on a planet." alt="" coords="205,107,332,133"/>
+</map>

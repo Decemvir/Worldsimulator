@@ -1,0 +1,19 @@
+<map id="Human::Human" name="Human::Human">
+<area shape="rect" id="node1" title="Constructor of class Human." alt="" coords="5,208,117,235"/>
+<area shape="rect" id="node2" href="$classOwnMW.html#a96d9131f139129adc7d067f7f46fce8d" title="Creates and returns a single instance of OwnMW." alt="" coords="165,183,320,209"/>
+<area shape="rect" id="node16" href="$classOwnMW.html#ae59b5bb200b0e69b3d4bfc39cba039ca" title="Shows all MindWorlds." alt="" coords="180,233,305,260"/>
+<area shape="rect" id="node3" href="$classOwnMW.html#a05d87c6d6d8329d4fd9389867494c4e7" title="Constructor of OwnMW." alt="" coords="375,183,505,209"/>
+<area shape="rect" id="node4" href="$classOwnMW.html#af9e91792370eda25f96fb509a4f13d72" title="Initializion of the OwnMW." alt="" coords="560,183,687,209"/>
+<area shape="rect" id="node5" href="$classMindWorld.html#ad9128c38f0510f015e457fe0ce672f27" title="Adds a MindWorldComponent to the MindWorld." alt="" coords="981,5,1094,32"/>
+<area shape="rect" id="node6" href="$classView.html#a627eaeb496479655c79e62af0953ae03" title=" " alt="" coords="774,208,874,235"/>
+<area shape="rect" id="node9" href="$classThought.html#a6f3c56138bc35872597845687426671f" title="Changes the Thought." alt="" coords="765,259,883,285"/>
+<area shape="rect" id="node10" href="$classMindWorld.html#a87aa878d44bb624be40f51d3d4656080" title="Creates a thought." alt="" coords="735,56,913,83"/>
+<area shape="rect" id="node12" href="$classMindWorld.html#a503d4161ccc7e9876cbd06914d7efd66" title="Constructor of MindWorld." alt="" coords="747,309,901,336"/>
+<area shape="rect" id="node13" href="$classThought.html#ada5ac33f9bf2cc97e7171c64ef522df0" title="Redos an executed command." alt="" coords="770,107,878,133"/>
+<area shape="rect" id="node14" href="$classThought.html#a771629acc121ef905c211f7ab98813cd" title="Shows the Thought object." alt="" coords="763,360,885,387"/>
+<area shape="rect" id="node15" href="$classThought.html#ae5ca383b1f5d83557eaa5a9651df7135" title="Undos an executed command." alt="" coords="770,157,878,184"/>
+<area shape="rect" id="node7" href="$classMindWorldComponent.html#a62b36925144f7fe520b22b707ee90d0a" title=" " alt="" coords="962,150,1113,191"/>
+<area shape="rect" id="node8" href="$classMindWorldComponent.html#a34a241f954862f2b626cd3ac423dc8fe" title=" " alt="" coords="962,215,1113,257"/>
+<area shape="rect" id="node11" href="$classThoughtBuilder.html#a215e7c4fb62786a8b970a98c7fc4f043" title=" " alt="" coords="961,57,1113,98"/>
+<area shape="rect" id="node17" href="$classMindWorld.html#a7f845286c07fe4bdc400570737235335" title=" " alt="" coords="368,233,512,260"/>
+</map>

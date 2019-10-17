@@ -1,0 +1,6 @@
+<map id="LFAnswerJob::changeWorkingLF" name="LFAnswerJob::changeWorkingLF">
+<area shape="rect" id="node1" title="Sets working life form." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node2" href="$classLFJob.html#a196a0391d41a1fc0192cd86fec6e7ca0" title="Sets working life form." alt="" coords="761,31,932,57"/>
+<area shape="rect" id="node3" href="$classLFMeetJob.html#a9ddd1aa77d6b7ab905bcbc895e886645" title="Sets working life form." alt="" coords="267,31,465,57"/>
+<area shape="rect" id="node4" href="$classLFMoveJob.html#ab5a8540f5370c1848f7a94f909aba642" title="Sets working life form." alt="" coords="513,81,713,108"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="SimWidgetDatamodel::SimWidgetDatamodel" name="SimWidgetDatamodel::SimWidgetDatamodel">
+<area shape="rect" id="node1" title="Constructor of class SimWidgetDatamodel." alt="" coords="5,657,161,698"/>
+<area shape="rect" id="node2" href="$classSimWidgetDatamodel.html#afe41b27560533ae191e842711d0e3701" title="Build view chain." alt="" coords="209,657,357,698"/>
+<area shape="rect" id="node3" href="$classGodAdapter.html#a5c304a609821857de42f189b7104327e" title="Creates predefined universe." alt="" coords="411,315,595,341"/>
+<area shape="rect" id="node31" href="$classDeus__Ex__Factory.html#a162aedb6960aeaadbef4e29b1be95df2" title="Creates a god and sets the static instance member." alt="" coords="405,639,600,665"/>
+<area shape="rect" id="node36" href="$classGod.html#a130718ebbc18ba1bd26e18c047707a3c" title="Returns the name of god." alt="" coords="449,689,556,716"/>
+<area shape="rect" id="node37" href="$classUniverseEntity.html#ac138ae2784a15c20ce313cdc4447dbaa" title="Returns the unique UniverseEntity. (Singleton)" alt="" coords="421,740,584,767"/>
+<area shape="rect" id="node4" href="$classSolarSystemEntity.html#ae7ecf490a2c74b2f6c647bd9f7f45adb" title="Adds entity to the solar system." alt="" coords="674,239,834,265"/>
+<area shape="rect" id="node5" href="$classUniverseEntity.html#a48dd740f480f33e0b948df00a6604931" title="Adds entity to the universe." alt="" coords="687,289,821,316"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#a49fdff17801cdc35bfd2595fe84f7fd7" title="Adds inhabitant to the planet." alt="" coords="665,340,843,367"/>
+<area shape="rect" id="node14" href="$classPlanetEntity.html#a9a7cd9f0cbae284828fdc31687dcbf51" title="Adds satellite to the planet." alt="" coords="669,391,839,417"/>
+<area shape="rect" id="node19" href="$classGodAdapter.html#ab8b199f9f08e60edbebb8a0f53fe374a" title="Returns &quot;artificial&quot; high developed life form with random name." alt="" coords="651,479,857,505"/>
+<area shape="rect" id="node24" href="$classGodAdapter.html#adeea903d8797f76dc5e24d815ca7aa07" title="Returns &quot;artificial&quot; low developed life form with random name." alt="" coords="653,529,855,556"/>
+<area shape="rect" id="node25" href="$classGodAdapter.html#ac3c0fb1eeb41d896dd80bb9cc2662414" title="Returns &quot;artificial&quot; mid developed life form with random name." alt="" coords="653,580,855,607"/>
+<area shape="rect" id="node26" href="$classPlanetEntity.html#a477cda2798814a1c144d849fecc8dd55" title="Sets rotation velocity for the planet." alt="" coords="648,5,860,32"/>
+<area shape="rect" id="node27" href="$classPlanetEntity.html#a8e63dd9427f67c55c8ce97bb45a2b9e7" title="Sets new radius for the planet." alt="" coords="656,56,852,83"/>
+<area shape="rect" id="node29" href="$classPlanetEntity.html#a12f20936afb24f2e93b6e94a633c99ae" title="Sets filename (for example Earth.jpg) for the planet texture." alt="" coords="673,107,835,149"/>
+<area shape="rect" id="node30" href="$classPlanetEntity.html#a5baeb718f1a76162a9f7f95c9ec0179d" title="Sets velocity in orbit for the planet." alt="" coords="671,173,837,214"/>
+<area shape="rect" id="node7" href="$classViewOfEntities.html#a72c5a154fb676f628fe54885983cf40d" title="Adds entity to the list of children." alt="" coords="943,289,1079,316"/>
+<area shape="rect" id="node9" href="$classPlanet.html#a387f8f6af3460e51d9d99aa82aef42cf" title="Adds a lifeform to the planet." alt="" coords="960,188,1063,215"/>
+<area shape="rect" id="node12" href="$classPlanetEntity.html#ab7b48ae3af0c08b9f3857b5060b9ce5e" title="Checks if planet has inhabitant lf." alt="" coords="908,239,1115,265"/>
+<area shape="rect" id="node13" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="910,122,1113,163"/>
+<area shape="rect" id="node8" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="1165,315,1329,341"/>
+<area shape="rect" id="node10" href="$classLifeForm.html#a43e5ce351679f09fb360fdfd0dc6eb4d" title="Returns the home planet of the lifeform." alt="" coords="1163,163,1332,189"/>
+<area shape="rect" id="node11" href="$classLifeForm.html#ae154496e65e561334720b59d07fc3687" title="The life begins on a planet." alt="" coords="1184,213,1311,240"/>
+<area shape="rect" id="node15" href="$classPlanetEntity.html#a451fb8f39f4338d0e919ed021de33b7d" title="Checks if planet contains entity." alt="" coords="936,340,1087,367"/>
+<area shape="rect" id="node16" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="1167,409,1328,450"/>
+<area shape="rect" id="node17" href="$classPlanetEntity.html#a4fdf5afbfc5a3ac46fd8e621dd33299e" title="Returns name of the planet." alt="" coords="935,492,1088,519"/>
+<area shape="rect" id="node18" href="$classPlanetEntity.html#ad9a5b8ea4132729f88dbad693c42d50e" title="Sets new center for the orbit of the planet." alt="" coords="919,391,1104,417"/>
+<area shape="rect" id="node20" href="$classDestinyAdapter.html#ae95a42b5500d905f3c43def2d8c23dac" title="Returns a randomly generated 4 letter long name." alt="" coords="927,594,1096,635"/>
+<area shape="rect" id="node23" href="$classGodAdapter.html#a9b3753afca9f56f13a84550b1f470325" title="Returns name of the god." alt="" coords="936,543,1087,569"/>
+<area shape="rect" id="node21" href="$destinyAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="1226,576,1269,603"/>
+<area shape="rect" id="node22" href="$destinyAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="1228,627,1267,653"/>
+<area shape="rect" id="node28" href="$classPlanetEntity.html#a8af289db91fcc1a3bd5c7382a856ba5c" title="Calculate sphere and texture coordinates." alt="" coords="928,56,1095,83"/>
+<area shape="rect" id="node32" href="$classDeus__Ex__Factory.html#aa298c3c75589c6ad480558bf5e53a33d" title="Returns the instance of class God." alt="" coords="653,631,855,673"/>
+<area shape="rect" id="node33" href="$classDeus__Ex__Factory.html#ad2a7f9756cbab054a4694454723bedc6" title="Sets a instance of a class God." alt="" coords="653,697,855,738"/>
+<area shape="rect" id="node34" href="$classDeus__Ex__Factory.html#aa6e77c8d0292adc92eafc4d243d53131" title="Returns the flag if a instance of class God was created." alt="" coords="911,685,1112,726"/>
+<area shape="rect" id="node35" href="$classDeus__Ex__Factory.html#a08abf4333de0e60f8f00c45d61097d6d" title="Sets the flag if a instance of class God was created." alt="" coords="911,750,1112,791"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HumanLifeChain::removeOldest" name="HumanLifeChain::removeOldest">
+<area shape="rect" id="node1" title="Returns the first element of list. It contains the oldest Human." alt="" coords="5,78,208,105"/>
+<area shape="rect" id="node2" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="256,5,420,47"/>
+<area shape="rect" id="node3" href="$classHumanLifeChainElement.html#a750ebfb76fe2f06c39afddd7d799dd41" title="Returns the next element of the chain." alt="" coords="256,71,420,112"/>
+<area shape="rect" id="node4" href="$classSubject.html#a130edb815aef88deebc1542a32fa9af9" title="Should be called when the Subject changes. Calls update() of all attached Observers." alt="" coords="257,137,419,163"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GodAdapter::createLowDevLFE" name="GodAdapter::createLowDevLFE">
+<area shape="rect" id="node1" title="Returns &quot;artificial&quot; low developed life form with random name." alt="" coords="5,60,208,87"/>
+<area shape="rect" id="node2" href="$classDestinyAdapter.html#ae95a42b5500d905f3c43def2d8c23dac" title="Returns a randomly generated 4 letter long name." alt="" coords="256,23,425,65"/>
+<area shape="rect" id="node5" href="$classGodAdapter.html#a9b3753afca9f56f13a84550b1f470325" title="Returns name of the god." alt="" coords="265,89,416,116"/>
+<area shape="rect" id="node3" href="$destinyAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="473,5,516,32"/>
+<area shape="rect" id="node4" href="$destinyAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="475,56,514,83"/>
+</map>

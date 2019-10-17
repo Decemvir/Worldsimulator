@@ -1,0 +1,16 @@
+<map id="RandomPartnerFinderStrategy::searchPartnersAndCreateHuman" name="RandomPartnerFinderStrategy::searchPartnersAndCreateHuman">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,225,241"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html#a9b683c13dfbd631cf605c6a5732eda00" title="Adds an Human to the list. It will be put on end of list. Creates an HumanLifeChainElement to store t..." alt="" coords="273,64,471,91"/>
+<area shape="rect" id="node5" href="$classWoman.html#a2559c44b1953d2576cff6c1113f67988" title="Creates a new Woman or Man by using a Man (having sex). The product is chosen randomly...." alt="" coords="296,119,448,145"/>
+<area shape="rect" id="node7" href="$classHumanLifeChainIterator.html#a326f34828504d08086eae52b5fd59163" title="Returns the first stored Human and sets pointer to next elemet of list." alt="" coords="294,170,450,211"/>
+<area shape="rect" id="node9" href="$classHumanLifeChainIterator.html#a17974e3e8e6981258625b51ca821c92d" title="Returns stored Human of current element and sets current element to." alt="" coords="537,226,693,267"/>
+<area shape="rect" id="node12" href="$classHumanLifeChain.html#a17fe80e10f8354b97c5177bfc24ab9ff" title="Create and returns the single instance of HumanLifeChain (Pattern Singleton)" alt="" coords="285,287,459,313"/>
+<area shape="rect" id="node14" href="$classHumanLifeChainIterator.html#a8cfa882a374923a8bbb9c4ffaa14ee25" title="Indicates the end of the list." alt="" coords="294,338,450,379"/>
+<area shape="rect" id="node3" href="$classSubject.html#a130edb815aef88deebc1542a32fa9af9" title="Should be called when the Subject changes. Calls update() of all attached Observers." alt="" coords="534,5,697,32"/>
+<area shape="rect" id="node4" href="$classHumanLifeChainElement.html#a314f51bc8c035586e4e52461d3553d4e" title="Sets the next element of the chain." alt="" coords="533,57,697,98"/>
+<area shape="rect" id="node6" href="$classWoman.html#a99b7f0db5aeab9e76f3528c2d6db59c0" title="Constructor of class Woman." alt="" coords="555,123,675,149"/>
+<area shape="rect" id="node8" href="$classHumanLifeChain.html#af6311e374e739149355060534bf0e703" title="Returns the first element of list. It contains the oldest Human." alt="" coords="519,175,712,201"/>
+<area shape="rect" id="node10" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="760,193,924,234"/>
+<area shape="rect" id="node11" href="$classHumanLifeChainElement.html#a750ebfb76fe2f06c39afddd7d799dd41" title="Returns the next element of the chain." alt="" coords="760,258,924,299"/>
+<area shape="rect" id="node13" href="$classHumanLifeChain.html#ae7504faac7d0a75d831c228fc37e0445" title="Constructor of class HumanLifeChain." alt="" coords="523,291,708,333"/>
+</map>

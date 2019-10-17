@@ -1,0 +1,4 @@
+<map id="LFJobHandler::getCopyOfJobQueue" name="LFJobHandler::getCopyOfJobQueue">
+<area shape="rect" id="node1" title="Returns exact copy of a job queue and replaces workingLF if specified." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classLFJob.html#a196a0391d41a1fc0192cd86fec6e7ca0" title="Sets working life form." alt="" coords="244,13,415,39"/>
+</map>

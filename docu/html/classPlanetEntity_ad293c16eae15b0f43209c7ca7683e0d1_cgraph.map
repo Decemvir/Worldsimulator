@@ -1,0 +1,6 @@
+<map id="PlanetEntity::init" name="PlanetEntity::init">
+<area shape="rect" id="node1" title="Initialises the planet (method runs in current OpenGL context)" alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a755c191ad7da164177b3dea566270b7d" title="Calculate the orbit coordinates." alt="" coords="173,5,337,32"/>
+<area shape="rect" id="node3" href="$classPlanetEntity.html#a8af289db91fcc1a3bd5c7382a856ba5c" title="Calculate sphere and texture coordinates." alt="" coords="172,56,339,83"/>
+<area shape="rect" id="node4" href="$classViewOfEntities.html#af9cafe321d4100d31f9f3669a20329df" title="Initialises all children (method runs in current OpenGL context)" alt="" coords="189,107,321,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="LifeFormEntity::isOnSamePlanetAs" name="LifeFormEntity::isOnSamePlanetAs">
+<area shape="rect" id="node1" title="Checks if lf is on the same planet as this." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="228,5,431,47"/>
+</map>

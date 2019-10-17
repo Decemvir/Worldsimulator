@@ -1,0 +1,16 @@
+<map id="SolarSystemEntity::SolarSystemEntity" name="SolarSystemEntity::SolarSystemEntity">
+<area shape="rect" id="node1" title="Constructor of class SolarSystemEntity." alt="" coords="5,220,144,261"/>
+<area shape="rect" id="node2" href="$classCartesianCoordAdapter.html#a5af89c405412b8e6a362c272cd7e660a" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="220,5,376,47"/>
+<area shape="rect" id="node6" href="$classCartesianCoordAdapter.html#a20cd132d365084072e5a22a1a56fd797" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="220,71,376,112"/>
+<area shape="rect" id="node7" href="$classCartesianCoordAdapter.html#a9812b84e1c0f5cbf17250396996ea0e5" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="220,136,376,177"/>
+<area shape="rect" id="node8" href="$classPlanetEntity.html#ad9a5b8ea4132729f88dbad693c42d50e" title="Sets new center for the orbit of the planet." alt="" coords="205,202,391,229"/>
+<area shape="rect" id="node10" href="$classPlanetEntity.html#a477cda2798814a1c144d849fecc8dd55" title="Sets rotation velocity for the planet." alt="" coords="192,253,404,279"/>
+<area shape="rect" id="node11" href="$classPlanetEntity.html#a138041a754a013103d9c97c04d920ec3" title="Sets planet color." alt="" coords="205,303,391,330"/>
+<area shape="rect" id="node12" href="$classPlanetEntity.html#a8e63dd9427f67c55c8ce97bb45a2b9e7" title="Sets new radius for the planet." alt="" coords="200,354,396,381"/>
+<area shape="rect" id="node14" href="$classPlanetEntity.html#a12f20936afb24f2e93b6e94a633c99ae" title="Sets filename (for example Earth.jpg) for the planet texture." alt="" coords="217,405,379,447"/>
+<area shape="rect" id="node3" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="455,17,615,43"/>
+<area shape="rect" id="node4" href="$classCoordinates.html#a4768e1c7134092f6633946c49cfabc2a" title="Returns the radius." alt="" coords="465,125,605,151"/>
+<area shape="rect" id="node5" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="455,74,615,101"/>
+<area shape="rect" id="node9" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="455,195,616,236"/>
+<area shape="rect" id="node13" href="$classPlanetEntity.html#a8af289db91fcc1a3bd5c7382a856ba5c" title="Calculate sphere and texture coordinates." alt="" coords="452,354,619,381"/>
+</map>

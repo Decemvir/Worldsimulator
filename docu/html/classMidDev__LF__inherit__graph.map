@@ -1,0 +1,8 @@
+<map id="MidDev_LF" name="MidDev_LF">
+<area shape="rect" id="node1" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="93,491,211,656"/>
+<area shape="rect" id="node4" href="$classHighDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="5,755,136,906"/>
+<area shape="rect" id="node6" href="$classMidDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="161,704,309,957"/>
+<area shape="rect" id="node2" href="$classLowDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="89,263,215,443"/>
+<area shape="rect" id="node3" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="87,5,217,215"/>
+<area shape="rect" id="node5" href="$classHighDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="75,1005,229,1244"/>
+</map>

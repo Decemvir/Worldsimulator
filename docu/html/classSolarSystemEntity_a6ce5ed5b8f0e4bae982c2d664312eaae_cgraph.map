@@ -1,0 +1,6 @@
+<map id="SolarSystemEntity::~SolarSystemEntity" name="SolarSystemEntity::~SolarSystemEntity">
+<area shape="rect" id="node1" title="Deconstructor of class SolarSystemEntity." alt="" coords="5,49,144,90"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a5d194a267a01b6d363e41a9284f25b94" title="Returns center of the orbit." alt="" coords="192,5,377,32"/>
+<area shape="rect" id="node3" href="$classLightHandler.html#aa3ca4d20dc52838a6abb86f29528fcd6" title="Returns the unique LightHandler. (Singleton)" alt="" coords="209,56,360,83"/>
+<area shape="rect" id="node4" href="$classLightHandler.html#ad2a4613cdc6833a30171b6052d671cfb" title="Removes light at specific position." alt="" coords="193,107,377,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LifeForm::askKnownLF" name="LifeForm::askKnownLF">
+<area shape="rect" id="node1" title="One of the ways to solve a problem. The problem is &quot;forwarded&quot; to a higher life form." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#ae0d1f6e2c790dcbf8a099cc343e15d18" title="Get the development level of the liveform." alt="" coords="219,5,354,32"/>
+<area shape="rect" id="node3" href="$classLifeForm.html#a6fe8453677cc2b2dbb98f46483236809" title="Solves a given problem.." alt="" coords="208,56,365,83"/>
+</map>

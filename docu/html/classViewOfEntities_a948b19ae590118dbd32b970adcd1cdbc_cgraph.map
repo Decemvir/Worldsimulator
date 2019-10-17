@@ -1,0 +1,3 @@
+<map id="ViewOfEntities::contains" name="ViewOfEntities::contains">
+<area shape="rect" id="node1" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="5,29,169,56"/>
+</map>

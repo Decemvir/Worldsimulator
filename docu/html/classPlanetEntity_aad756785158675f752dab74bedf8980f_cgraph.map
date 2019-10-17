@@ -1,0 +1,16 @@
+<map id="PlanetEntity::add" name="PlanetEntity::add">
+<area shape="rect" id="node1" title="Adds entity to the planet." alt="" coords="5,173,128,200"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a49fdff17801cdc35bfd2595fe84f7fd7" title="Adds inhabitant to the planet." alt="" coords="176,123,355,149"/>
+<area shape="rect" id="node10" href="$classPlanetEntity.html#a9a7cd9f0cbae284828fdc31687dcbf51" title="Adds satellite to the planet." alt="" coords="181,249,350,276"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#a72c5a154fb676f628fe54885983cf40d" title="Adds entity to the list of children." alt="" coords="438,173,574,200"/>
+<area shape="rect" id="node5" href="$classPlanet.html#a387f8f6af3460e51d9d99aa82aef42cf" title="Adds a lifeform to the planet." alt="" coords="455,123,557,149"/>
+<area shape="rect" id="node8" href="$classPlanetEntity.html#ab7b48ae3af0c08b9f3857b5060b9ce5e" title="Checks if planet has inhabitant lf." alt="" coords="403,5,609,32"/>
+<area shape="rect" id="node9" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="405,57,607,98"/>
+<area shape="rect" id="node4" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="660,217,824,244"/>
+<area shape="rect" id="node6" href="$classLifeForm.html#a43e5ce351679f09fb360fdfd0dc6eb4d" title="Returns the home planet of the lifeform." alt="" coords="657,79,827,105"/>
+<area shape="rect" id="node7" href="$classLifeForm.html#ae154496e65e561334720b59d07fc3687" title="The life begins on a planet." alt="" coords="679,129,805,156"/>
+<area shape="rect" id="node11" href="$classPlanetEntity.html#a451fb8f39f4338d0e919ed021de33b7d" title="Checks if planet contains entity." alt="" coords="431,224,581,251"/>
+<area shape="rect" id="node12" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="661,322,823,363"/>
+<area shape="rect" id="node13" href="$classPlanetEntity.html#a4fdf5afbfc5a3ac46fd8e621dd33299e" title="Returns name of the planet." alt="" coords="429,325,583,352"/>
+<area shape="rect" id="node14" href="$classPlanetEntity.html#ad9a5b8ea4132729f88dbad693c42d50e" title="Sets new center for the orbit of the planet." alt="" coords="413,376,599,403"/>
+</map>

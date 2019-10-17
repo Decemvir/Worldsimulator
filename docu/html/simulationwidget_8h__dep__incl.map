@@ -1,0 +1,9 @@
+<map id="simulationwidget.h" name="simulationwidget.h">
+<area shape="rect" id="node1" title="Contains the declaration of class SimulationWidget." alt="" coords="372,5,501,32"/>
+<area shape="rect" id="node2" href="$moc__simulationwidget_8cpp.html" title=" " alt="" coords="5,80,180,107"/>
+<area shape="rect" id="node3" href="$simulationwidget_8cpp.html" title="Contains the implementation of class SimulationWidget." alt="" coords="204,80,347,107"/>
+<area shape="rect" id="node4" href="$ui__mindworldsgui_8h.html" title=" " alt="" coords="371,80,503,107"/>
+<area shape="rect" id="node6" href="$simwidgetcontroller_8cpp.html" title="Contains the implementation of class SimWidgetController." alt="" coords="527,80,685,107"/>
+<area shape="rect" id="node7" href="$simwidgetdatamodel_8cpp.html" title="Contains the implementation of class SimWidgetDatamodel." alt="" coords="710,80,875,107"/>
+<area shape="rect" id="node5" href="$mindworldsgui_8cpp.html" title=" " alt="" coords="372,155,501,181"/>
+</map>

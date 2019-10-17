@@ -1,0 +1,6 @@
+<map id="LifeFormEntity::LifeFormEntity" name="LifeFormEntity::LifeFormEntity">
+<area shape="rect" id="node1" title="Copy constructor of class LifeFormEntity." alt="" coords="5,49,169,90"/>
+<area shape="rect" id="node2" href="$classLFJobHandler.html#a3745f6442967331aadfacb79adb9e1cd" title="Creates a job queue for a specific life form." alt="" coords="217,5,420,32"/>
+<area shape="rect" id="node3" href="$classLFJobHandler.html#a20013d589f0628a3f3aaf717e79d4f3f" title="Returns the unique LFJobHandler. (Singleton)" alt="" coords="239,56,398,83"/>
+<area shape="rect" id="node4" href="$classDestinyAdapter.html#a6434072640c28ed10f499a307b494206" title="Returns the unique DestinyAdapter. (Singleton)" alt="" coords="235,107,403,133"/>
+</map>

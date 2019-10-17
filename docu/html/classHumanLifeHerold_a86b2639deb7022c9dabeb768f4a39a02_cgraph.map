@@ -1,0 +1,8 @@
+<map id="HumanLifeHerold::update" name="HumanLifeHerold::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,172,120"/>
+<area shape="rect" id="node2" href="$classHuman.html#ad8d6470517165928311cbb586e08e774" title="Returns the eye color of the human." alt="" coords="245,5,388,32"/>
+<area shape="rect" id="node3" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="235,57,399,98"/>
+<area shape="rect" id="node4" href="$classHumanLifeChain.html#a17fe80e10f8354b97c5177bfc24ab9ff" title="Create and returns the single instance of HumanLifeChain (Pattern Singleton)" alt="" coords="230,123,403,149"/>
+<area shape="rect" id="node6" href="$classHumanLifeChain.html#a08f06fee1b887bd1c7d8997f6671d3eb" title="Returns the last element of list. It contains the youngest Human." alt="" coords="220,173,413,200"/>
+<area shape="rect" id="node5" href="$classHumanLifeChain.html#ae7504faac7d0a75d831c228fc37e0445" title="Constructor of class HumanLifeChain." alt="" coords="461,115,647,157"/>
+</map>

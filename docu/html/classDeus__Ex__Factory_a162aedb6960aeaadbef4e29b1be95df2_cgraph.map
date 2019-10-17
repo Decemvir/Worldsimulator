@@ -1,0 +1,7 @@
+<map id="Deus_Ex_Factory::createGod" name="Deus_Ex_Factory::createGod">
+<area shape="rect" id="node1" title="Creates a god and sets the static instance member." alt="" coords="5,46,200,73"/>
+<area shape="rect" id="node2" href="$classDeus__Ex__Factory.html#aa298c3c75589c6ad480558bf5e53a33d" title="Returns the instance of class God." alt="" coords="248,5,449,47"/>
+<area shape="rect" id="node3" href="$classDeus__Ex__Factory.html#ad2a7f9756cbab054a4694454723bedc6" title="Sets a instance of a class God." alt="" coords="248,71,449,112"/>
+<area shape="rect" id="node4" href="$classDeus__Ex__Factory.html#aa6e77c8d0292adc92eafc4d243d53131" title="Returns the flag if a instance of class God was created." alt="" coords="497,37,699,79"/>
+<area shape="rect" id="node5" href="$classDeus__Ex__Factory.html#a08abf4333de0e60f8f00c45d61097d6d" title="Sets the flag if a instance of class God was created." alt="" coords="497,103,699,144"/>
+</map>

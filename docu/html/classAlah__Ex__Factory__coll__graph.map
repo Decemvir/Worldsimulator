@@ -1,0 +1,20 @@
+<map id="Alah_Ex_Factory" name="Alah_Ex_Factory">
+<area shape="rect" id="node1" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class Alah...." alt="" coords="739,2001,862,2079"/>
+<area shape="rect" id="node2" href="$classDeus__Ex__Factory.html" title="Member of pattern Factory as Creator. This class can create an instance of a god. This factory has al..." alt="" coords="705,1816,896,1952"/>
+<area shape="rect" id="node3" href="$classGod.html" title="Member of pattern Factory as Product. Member of pattern Adapter as Adaptee. This is the interface for..." alt="" coords="645,1559,799,1753"/>
+<area shape="rect" id="node4" href="$classUniverse.html" title="Member of pattern Singleton. Member of pattern Adapter as Adaptee. An instance of this class represen..." alt="" coords="157,831,282,1011"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,669,108,746"/>
+<area shape="rect" id="node6" title=" " alt="" coords="132,669,259,746"/>
+<area shape="rect" id="node7" href="$classPlanet.html" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="308,647,395,768"/>
+<area shape="rect" id="node14" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="433,838,563,1003"/>
+<area shape="rect" id="node8" title=" " alt="" coords="409,463,547,540"/>
+<area shape="rect" id="node9" href="$classCartesianCoordAdapter.html" title="Member of pattern Adapter as Adapter and Target. This class can return polar coordinates and cartesia..." alt="" coords="201,419,385,584"/>
+<area shape="rect" id="node10" href="$classCoordinates.html" title="Member of pattern Adapter as Adaptee. An instance of this class represents a point in a 3 dimensional..." alt="" coords="233,175,352,369"/>
+<area shape="rect" id="node11" title=" " alt="" coords="263,5,323,83"/>
+<area shape="rect" id="node12" href="$classMidDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="663,1316,781,1481"/>
+<area shape="rect" id="node13" href="$classLowDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="546,1073,671,1253"/>
+<area shape="rect" id="node15" title=" " alt="" coords="769,669,816,746"/>
+<area shape="rect" id="node16" title=" " alt="" coords="575,669,647,746"/>
+<area shape="rect" id="node17" href="$classDestiny.html" title="Member of pattern Adapter as Adaptee. Member of pattern Singleton. Member of pattern ChainOfresponsib..." alt="" coords="874,1316,1069,1481"/>
+<area shape="rect" id="node18" title=" " alt="" coords="823,1617,869,1695"/>
+</map>

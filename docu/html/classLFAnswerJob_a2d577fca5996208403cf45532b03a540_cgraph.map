@@ -1,0 +1,19 @@
+<map id="LFAnswerJob::workOnJob" name="LFAnswerJob::workOnJob">
+<area shape="rect" id="node1" title="Works on the job." alt="" coords="5,73,177,100"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a29deb40340977d4fd37499f36a0c5ad8" title="Outputs console message if the life form receives an answer from lf." alt="" coords="225,35,423,61"/>
+<area shape="rect" id="node4" href="$classLFMeetJob.html#a300e882744ce6d3d1c1c1a06247a821b" title="Works on the job." alt="" coords="245,111,403,137"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="747,5,914,32"/>
+<area shape="rect" id="node5" href="$classLifeFormEntity.html#aa4ccd6f649f22d44b82f9fb614180a7c" title="Adds lf to the list of known life forms." alt="" coords="473,60,671,87"/>
+<area shape="rect" id="node10" href="$classLFMoveJob.html#a94bea8607c0ecb4be95b9e46f7541409" title="Sets destination." alt="" coords="471,111,673,137"/>
+<area shape="rect" id="node11" href="$classLifeFormEntity.html#a2d7910d60e2618fd8dc8b711558da0ed" title="Returns position relative to the planet the life form lives on." alt="" coords="472,161,672,188"/>
+<area shape="rect" id="node12" href="$classLFMoveJob.html#a9d7b190ea191efac137c36e7015e25ef" title="Works on the job." alt="" coords="493,216,651,243"/>
+<area shape="rect" id="node6" href="$classLifeForm.html#a934b40ca0a80f965511376c66207a6fd" title="A life form is added to the list of friends, the calling object has." alt="" coords="757,56,905,83"/>
+<area shape="rect" id="node7" href="$classLifeFormEntity.html#a547c68aec28459b31a32a4f6ec1139a6" title="Checks if lf is on the same planet as this." alt="" coords="743,107,918,149"/>
+<area shape="rect" id="node9" href="$classLifeFormEntity.html#a189e25f274847a528aa23e6f6a9e2446" title="Checks if lf is known by this." alt="" coords="755,173,906,200"/>
+<area shape="rect" id="node8" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="988,107,1191,149"/>
+<area shape="rect" id="node13" href="$classLifeFormEntity.html#adb3a42484ee3c3cdb1ca1efcc57fef96" title=" " alt="" coords="721,224,940,251"/>
+<area shape="rect" id="node14" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="1009,173,1169,200"/>
+<area shape="rect" id="node15" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="1009,224,1169,251"/>
+<area shape="rect" id="node16" href="$classCoordinates.html#a7deea25d6ffeea2d0cb8bd67192cdf58" title="Sets the horizontal angle." alt="" coords="1009,275,1169,301"/>
+<area shape="rect" id="node17" href="$classCoordinates.html#a1b7801f2b0265ed0ea89088beae3c6cb" title="Sets the vertical angle." alt="" coords="1009,325,1169,352"/>
+</map>

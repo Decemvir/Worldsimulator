@@ -1,0 +1,9 @@
+<map id="LowDev_LF::solveProblem" name="LowDev_LF::solveProblem">
+<area shape="rect" id="node1" title="Here it will be decided, which method to choose to solve a problem." alt="" coords="5,107,179,133"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#aa48c243a7d7ba858035cee1a90d1bbab" title="One of the ways to solve a problem. The problem is &quot;forwarded&quot; to a higher life form." alt="" coords="239,31,393,57"/>
+<area shape="rect" id="node5" href="$classLowDev__LF.html#ade4e97959b6308a3de24ee16aba91fcf" title="One of the ways to solve a problem. (handle a request)" alt="" coords="227,81,405,108"/>
+<area shape="rect" id="node6" href="$classLowDev__LF.html#ac4f904d657e03c41fe0b96b19682f24e" title="A problem was not solved and got igonred by the life form." alt="" coords="227,132,405,159"/>
+<area shape="rect" id="node7" href="$classLowDev__LF.html#abad051f3136c0e15d9730c01ea42de12" title="The life form knows the solution of the problem." alt="" coords="229,183,403,209"/>
+<area shape="rect" id="node3" href="$classLifeForm.html#ae0d1f6e2c790dcbf8a099cc343e15d18" title="Get the development level of the liveform." alt="" coords="465,5,599,32"/>
+<area shape="rect" id="node4" href="$classLifeForm.html#a6fe8453677cc2b2dbb98f46483236809" title="Solves a given problem.." alt="" coords="453,56,611,83"/>
+</map>

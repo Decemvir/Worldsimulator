@@ -1,0 +1,11 @@
+<map id="Human" name="Human">
+<area shape="rect" id="node1" title="Member of pattern Prototype as Prototype. Subclasses can be clonable ConcretePrototypes...." alt="" coords="121,831,235,967"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,639,60,717"/>
+<area shape="rect" id="node3" title=" " alt="" coords="180,5,219,83"/>
+<area shape="rect" id="node6" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="216,145,367,267"/>
+<area shape="rect" id="node4" href="$classOwnMW.html" title="Member of pattern Composite as Composite. Is the one MindWorld, each Human has one...." alt="" coords="264,603,380,753"/>
+<area shape="rect" id="node5" href="$classMindWorld.html" title="Member of pattern Composite as Composite. &#160;Member of pattern ChainOfresponsibility as Client and as C..." alt="" coords="403,329,531,553"/>
+<area shape="rect" id="node7" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="296,5,383,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="391,167,608,245"/>
+<area shape="rect" id="node9" title=" " alt="" coords="633,167,689,245"/>
+</map>

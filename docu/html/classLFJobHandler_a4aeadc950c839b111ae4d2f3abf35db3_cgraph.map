@@ -1,0 +1,4 @@
+<map id="LFJobHandler::clearJobQueue" name="LFJobHandler::clearJobQueue">
+<area shape="rect" id="node1" title="Deletes all jobs of a job queue." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$classLFJobHandler.html#aac81159ba489c152c19e1e201a784f55" title="Deletes top priority job from a job queue." alt="" coords="248,5,439,32"/>
+</map>

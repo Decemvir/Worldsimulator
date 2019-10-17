@@ -1,0 +1,6 @@
+<map id="Man::clone" name="Man::clone">
+<area shape="rect" id="node1" title="Clones a human and builds a Man." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$classHuman.html#ad8d6470517165928311cbb586e08e774" title="Returns the eye color of the human." alt="" coords="140,5,283,32"/>
+<area shape="rect" id="node3" href="$classMan.html#a051ab47a531f9b88d602d1ded39a12ce" title="Constructor of class Man." alt="" coords="171,56,251,83"/>
+<area shape="rect" id="node4" href="$classHuman.html#a038a58b0af19902a8c6c61a5654cd6c5" title="Sets the eye color of the human." alt="" coords="140,107,283,133"/>
+</map>

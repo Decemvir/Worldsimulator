@@ -1,0 +1,6 @@
+<map id="HumanHandler::createHumanNaturally" name="HumanHandler::createHumanNaturally">
+<area shape="rect" id="node1" title="Creates a Human &#45; having sex. See also PartnerFinder." alt="" coords="5,39,197,80"/>
+<area shape="rect" id="node2" href="$classPartnerFinder.html#a548c923054ba0180832dff693ffd814b" title=" " alt="" coords="245,5,441,47"/>
+<area shape="rect" id="node4" href="$classPartnerFinder.html#abc734e75a0599f267e04c8b6ea2392d4" title="Sets the PartnerFinderStrategy.." alt="" coords="259,71,427,112"/>
+<area shape="rect" id="node3" href="$classPartnerFinderStrategy.html#a0fc60c957fa4bfab5a4ce776eb23e981" title="Can be implemented to find a Woman and a Man." alt="" coords="489,5,709,47"/>
+</map>

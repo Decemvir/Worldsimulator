@@ -1,0 +1,5 @@
+<map id="LFMeetJob::operator=" name="LFMeetJob::operator=">
+<area shape="rect" id="node1" title="Overload of the operator =." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$classLFMeetJob.html#a910b82321c8b66637c8ca069ab88034b" title="Returns life forms that are involved with the job." alt="" coords="212,5,393,32"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html#a2d7910d60e2618fd8dc8b711558da0ed" title="Returns position relative to the planet the life form lives on." alt="" coords="203,56,403,83"/>
+</map>

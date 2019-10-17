@@ -1,0 +1,5 @@
+<map id="Deus_Ex_Factory::setInstanceOfGod" name="Deus_Ex_Factory::setInstanceOfGod">
+<area shape="rect" id="node1" title="Sets a instance of a class God." alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$classDeus__Ex__Factory.html#aa6e77c8d0292adc92eafc4d243d53131" title="Returns the flag if a instance of class God was created." alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$classDeus__Ex__Factory.html#a08abf4333de0e60f8f00c45d61097d6d" title="Sets the flag if a instance of class God was created." alt="" coords="255,71,456,112"/>
+</map>

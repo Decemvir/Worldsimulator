@@ -1,0 +1,5 @@
+<map id="MindWorldComponent" name="MindWorldComponent">
+<area shape="rect" id="node1" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="16,145,167,267"/>
+<area shape="rect" id="node2" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="5,5,92,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="116,5,155,83"/>
+</map>

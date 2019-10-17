@@ -1,0 +1,8 @@
+<map id="ViewOfEntities" name="ViewOfEntities">
+<area shape="rect" id="node1" title="Member of pattern Composite as Composite. Defines an abstract graphical element that can contain othe..." alt="" coords="181,359,315,656"/>
+<area shape="rect" id="node4" href="$classPlanetEntity.html" title="Member of pattern Adapter as Adapter and Target. Redefines and adds to the interface functionality in..." alt="" coords="5,704,144,1119"/>
+<area shape="rect" id="node5" href="$classSolarSystemEntity.html" title="Member of pattern Facade as Subsystem classes. Implements interface functionality from the class View..." alt="" coords="169,785,327,1038"/>
+<area shape="rect" id="node6" href="$classUniverseEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Singleton. Redefines and adds to t..." alt="" coords="351,704,510,1119"/>
+<area shape="rect" id="node2" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="188,131,308,311"/>
+<area shape="rect" id="node3" href="$classQObject.html" title=" " alt="" coords="213,5,283,83"/>
+</map>

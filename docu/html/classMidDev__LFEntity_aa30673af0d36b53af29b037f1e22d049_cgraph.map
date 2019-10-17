@@ -1,0 +1,5 @@
+<map id="MidDev_LFEntity::isVisible" name="MidDev_LFEntity::isVisible">
+<area shape="rect" id="node1" title="Returns the visibility of the life form." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a44a260aca77a2a7bc083f9ddbe3c1dea" title="Returns the visibility of the life form." alt="" coords="231,5,393,32"/>
+<area shape="rect" id="node3" href="$classEntity.html#a098d827982916bd7b3d13f6858c520d7" title="Returns the visibility." alt="" coords="441,5,555,32"/>
+</map>

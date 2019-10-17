@@ -1,0 +1,4 @@
+<map id="HumanHerold::attachToSubject" name="HumanHerold::attachToSubject">
+<area shape="rect" id="node1" title="Attach this to the given HumanLifeChain." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node2" href="$classSubject.html#af0514087b715431f6095cd1dcd0e8e46" title="Attaches an Observer." alt="" coords="256,5,417,32"/>
+</map>

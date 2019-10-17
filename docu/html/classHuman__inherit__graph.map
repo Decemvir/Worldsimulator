@@ -1,0 +1,5 @@
+<map id="Human" name="Human">
+<area shape="rect" id="node1" title="Member of pattern Prototype as Prototype. Subclasses can be clonable ConcretePrototypes...." alt="" coords="7,5,197,185"/>
+<area shape="rect" id="node2" href="$classMan.html" title="Member of pattern Prototype as ConcretePrototype. Can be cloned to create new Man Objects." alt="" coords="5,241,79,333"/>
+<area shape="rect" id="node3" href="$classWoman.html" title="Member of pattern Prototype as ConcretePrototype. Can be cloned to create new Woman Objects with the ..." alt="" coords="103,233,221,340"/>
+</map>

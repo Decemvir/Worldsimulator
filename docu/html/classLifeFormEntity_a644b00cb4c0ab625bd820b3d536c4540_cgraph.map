@@ -1,0 +1,4 @@
+<map id="LifeFormEntity::getHomePlanetPos" name="LifeFormEntity::getHomePlanetPos">
+<area shape="rect" id="node1" title="Returns absolut position of the planet the life form lives on." alt="" coords="5,13,232,39"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="280,5,441,47"/>
+</map>

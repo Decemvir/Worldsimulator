@@ -1,0 +1,4 @@
+<map id="ViewOfEntities::add" name="ViewOfEntities::add">
+<area shape="rect" id="node1" title="Adds entity to the list of children." alt="" coords="5,29,141,56"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="189,29,353,56"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DestinyAdapter::chooseRandomLFE" name="DestinyAdapter::chooseRandomLFE">
+<area shape="rect" id="node1" title="Returns an instance to an uniformly randomly chosen life form from the pool of life forms." alt="" coords="5,31,239,57"/>
+<area shape="rect" id="node2" href="$destinyAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="287,5,329,32"/>
+<area shape="rect" id="node3" href="$destinyAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="289,56,327,83"/>
+</map>

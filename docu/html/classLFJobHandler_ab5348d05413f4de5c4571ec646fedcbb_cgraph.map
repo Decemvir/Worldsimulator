@@ -1,0 +1,7 @@
+<map id="LFJobHandler::copyJobQueue" name="LFJobHandler::copyJobQueue">
+<area shape="rect" id="node1" title="Assigns job queue copy of sourceLF to targetLF." alt="" coords="5,35,200,61"/>
+<area shape="rect" id="node2" href="$classLFJobHandler.html#a4aeadc950c839b111ae4d2f3abf35db3" title="Deletes all jobs of a job queue." alt="" coords="248,5,443,32"/>
+<area shape="rect" id="node4" href="$classLFJobHandler.html#a73b8dfa032e80c5bc518971a81debe1b" title="Returns exact copy of a job queue and replaces workingLF if specified." alt="" coords="250,57,441,98"/>
+<area shape="rect" id="node3" href="$classLFJobHandler.html#aac81159ba489c152c19e1e201a784f55" title="Deletes top priority job from a job queue." alt="" coords="491,5,681,32"/>
+<area shape="rect" id="node5" href="$classLFJob.html#a196a0391d41a1fc0192cd86fec6e7ca0" title="Sets working life form." alt="" coords="501,64,671,91"/>
+</map>

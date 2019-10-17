@@ -1,0 +1,5 @@
+<map id="LifeFormEntity::forgetAboutLFE" name="LifeFormEntity::forgetAboutLFE">
+<area shape="rect" id="node1" title="Removes lf from the list of known life forms." alt="" coords="5,31,209,57"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="257,5,424,32"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html#a189e25f274847a528aa23e6f6a9e2446" title="Checks if lf is known by this." alt="" coords="265,56,416,83"/>
+</map>

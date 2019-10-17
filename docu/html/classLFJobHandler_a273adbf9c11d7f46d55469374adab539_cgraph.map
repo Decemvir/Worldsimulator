@@ -1,0 +1,11 @@
+<map id="LFJobHandler::replaceLF" name="LFJobHandler::replaceLF">
+<area shape="rect" id="node1" title="Replaces all occurences of oldLFRef with newLFRef." alt="" coords="5,107,172,133"/>
+<area shape="rect" id="node2" href="$classLFJob.html#ac9eacd2c08bc0bf399304ebf4c03b194" title=" " alt="" coords="233,5,409,32"/>
+<area shape="rect" id="node3" href="$classLFJob.html#a196a0391d41a1fc0192cd86fec6e7ca0" title="Sets working life form." alt="" coords="236,56,407,83"/>
+<area shape="rect" id="node4" href="$classLFJobHandler.html#a293a34ae3f2229ee481b8d38b2effb70" title="Deletes job queue for a specific life form." alt="" coords="220,107,423,133"/>
+<area shape="rect" id="node8" href="$classLFJob.html#ae3cc9298f866c4a2a6da5c444d77df83" title=" " alt="" coords="733,132,885,159"/>
+<area shape="rect" id="node9" href="$classLFJob.html#adf4db5d4feea21776090d22fa5402686" title="Returns working life form." alt="" coords="248,212,395,239"/>
+<area shape="rect" id="node5" href="$classLFJobHandler.html#a4aeadc950c839b111ae4d2f3abf35db3" title="Deletes all jobs of a job queue." alt="" coords="471,44,665,71"/>
+<area shape="rect" id="node7" href="$classLFJobHandler.html#aa73631008274babfcba6859a8310d251" title="Removes all jobs that contain pRef from targetLFs job queue." alt="" coords="479,95,657,137"/>
+<area shape="rect" id="node6" href="$classLFJobHandler.html#aac81159ba489c152c19e1e201a784f55" title="Deletes top priority job from a job queue." alt="" coords="713,44,904,71"/>
+</map>

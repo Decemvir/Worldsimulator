@@ -1,0 +1,4 @@
+<map id="LFMeetJob" name="LFMeetJob">
+<area shape="rect" id="node1" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form meet anot..." alt="" coords="5,321,159,560"/>
+<area shape="rect" id="node2" href="$classLFJob.html" title="Member of pattern Facade as Subsystem classes. Member of pattern Command as Command...." alt="" coords="9,5,155,273"/>
+</map>

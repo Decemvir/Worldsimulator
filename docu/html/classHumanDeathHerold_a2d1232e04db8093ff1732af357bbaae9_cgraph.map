@@ -1,0 +1,7 @@
+<map id="HumanDeathHerold::update" name="HumanDeathHerold::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,187,91"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html#af6311e374e739149355060534bf0e703" title="Returns the first element of list. It contains the oldest Human." alt="" coords="235,5,428,32"/>
+<area shape="rect" id="node3" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="249,57,413,98"/>
+<area shape="rect" id="node4" href="$classHumanLifeChain.html#a17fe80e10f8354b97c5177bfc24ab9ff" title="Create and returns the single instance of HumanLifeChain (Pattern Singleton)" alt="" coords="245,123,418,149"/>
+<area shape="rect" id="node5" href="$classHumanLifeChain.html#ae7504faac7d0a75d831c228fc37e0445" title="Constructor of class HumanLifeChain." alt="" coords="476,115,661,157"/>
+</map>

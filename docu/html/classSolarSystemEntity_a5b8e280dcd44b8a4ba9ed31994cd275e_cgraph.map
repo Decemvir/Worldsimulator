@@ -1,0 +1,8 @@
+<map id="SolarSystemEntity::draw" name="SolarSystemEntity::draw">
+<area shape="rect" id="node1" title="Draw solar system (method runs in current OpenGL context)" alt="" coords="5,84,172,111"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#aa1e0313ef7c89bf262e21bde378e635a" title="Draw the next frame for all children (method runs in current OpenGL context)" alt="" coords="452,8,595,35"/>
+<area shape="rect" id="node3" href="$classPlanetEntity.html#a21d6ae4d8125a16828c5b9ea019470b0" title="Draw planet (method runs in current OpenGL context)" alt="" coords="248,34,376,60"/>
+<area shape="rect" id="node4" href="$classLightHandler.html#a032ca5f108c0ea2f75fab45e23d50986" title="Returns koefficient vector." alt="" coords="220,84,404,111"/>
+<area shape="rect" id="node5" href="$classLightHandler.html#aa3ca4d20dc52838a6abb86f29528fcd6" title="Returns the unique LightHandler. (Singleton)" alt="" coords="237,135,387,162"/>
+<area shape="rect" id="node6" href="$classLightHandler.html#aab105ea4428ce70f57921f81f179f5b9" title="Sets the light koefficients." alt="" coords="220,186,404,212"/>
+</map>

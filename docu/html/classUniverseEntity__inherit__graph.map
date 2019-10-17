@@ -1,0 +1,7 @@
+<map id="UniverseEntity" name="UniverseEntity">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Adapter and Target. Member of pattern Singleton. Redefines and adds to t..." alt="" coords="71,704,229,1119"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html" title="Member of pattern Composite as Composite. Defines an abstract graphical element that can contain othe..." alt="" coords="5,359,140,656"/>
+<area shape="rect" id="node3" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="13,131,133,311"/>
+<area shape="rect" id="node4" href="$classQObject.html" title=" " alt="" coords="37,5,108,83"/>
+<area shape="rect" id="node5" href="$classUniverse.html" title="Member of pattern Singleton. Member of pattern Adapter as Adaptee. An instance of this class represen..." alt="" coords="165,395,290,619"/>
+</map>

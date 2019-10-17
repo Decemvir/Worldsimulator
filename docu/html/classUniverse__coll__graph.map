@@ -1,0 +1,10 @@
+<map id="Universe" name="Universe">
+<area shape="rect" id="node1" title="Member of pattern Singleton. Member of pattern Adapter as Adaptee. An instance of this class represen..." alt="" coords="133,831,258,1011"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,669,108,746"/>
+<area shape="rect" id="node3" title=" " alt="" coords="132,669,259,746"/>
+<area shape="rect" id="node4" href="$classPlanet.html" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="283,647,369,768"/>
+<area shape="rect" id="node5" title=" " alt="" coords="183,463,322,540"/>
+<area shape="rect" id="node6" href="$classCartesianCoordAdapter.html" title="Member of pattern Adapter as Adapter and Target. This class can return polar coordinates and cartesia..." alt="" coords="346,419,530,584"/>
+<area shape="rect" id="node7" href="$classCoordinates.html" title="Member of pattern Adapter as Adaptee. An instance of this class represents a point in a 3 dimensional..." alt="" coords="379,175,497,369"/>
+<area shape="rect" id="node8" title=" " alt="" coords="408,5,468,83"/>
+</map>

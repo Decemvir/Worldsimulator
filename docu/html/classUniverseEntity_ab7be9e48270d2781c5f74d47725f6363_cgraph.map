@@ -1,0 +1,5 @@
+<map id="UniverseEntity::isVisible" name="UniverseEntity::isVisible">
+<area shape="rect" id="node1" title="Returns the visibility of the universe." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a4a919194623b69520188c53d56b38e63" title="Returns the visibility of the view." alt="" coords="216,5,380,32"/>
+<area shape="rect" id="node3" href="$classEntity.html#a098d827982916bd7b3d13f6858c520d7" title="Returns the visibility." alt="" coords="428,5,541,32"/>
+</map>

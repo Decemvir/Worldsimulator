@@ -1,0 +1,9 @@
+<map id="SolarSystemEntity::setSolarSystemCenter" name="SolarSystemEntity::setSolarSystemCenter">
+<area shape="rect" id="node1" title="Sets the center of the solar system." alt="" coords="5,99,159,141"/>
+<area shape="rect" id="node2" href="$classLightHandler.html#ad0014c36708455df057641e04e2936a0" title="Adds light at specific position if limit is not reached." alt="" coords="217,5,381,32"/>
+<area shape="rect" id="node3" href="$classPlanetEntity.html#a5d194a267a01b6d363e41a9284f25b94" title="Returns center of the orbit." alt="" coords="207,56,392,83"/>
+<area shape="rect" id="node4" href="$classLightHandler.html#aa3ca4d20dc52838a6abb86f29528fcd6" title="Returns the unique LightHandler. (Singleton)" alt="" coords="224,107,375,133"/>
+<area shape="rect" id="node5" href="$classLightHandler.html#ad2a4613cdc6833a30171b6052d671cfb" title="Removes light at specific position." alt="" coords="207,157,391,184"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#ad9a5b8ea4132729f88dbad693c42d50e" title="Sets new center for the orbit of the planet." alt="" coords="207,208,392,235"/>
+<area shape="rect" id="node7" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="440,201,601,242"/>
+</map>

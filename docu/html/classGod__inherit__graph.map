@@ -1,0 +1,7 @@
+<map id="God" name="God">
+<area shape="rect" id="node1" title="Member of pattern Factory as Product. Member of pattern Adapter as Adaptee. This is the interface for..." alt="" coords="208,5,361,273"/>
+<area shape="rect" id="node2" href="$classAlah.html" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of Alah can cr..." alt="" coords="5,461,100,538"/>
+<area shape="rect" id="node3" href="$classGodAdapter.html" title="Member of pattern Composite as Client. Member of pattern Adapter as Adapter and Target...." alt="" coords="125,321,290,677"/>
+<area shape="rect" id="node4" href="$classJesus.html" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of Jesus can c..." alt="" coords="315,461,409,538"/>
+<area shape="rect" id="node5" href="$classVeryHighDev__LF.html" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of VeryHighDev..." alt="" coords="433,461,552,538"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="universe.h" name="universe.h">
+<area shape="rect" id="node1" title="Contains the declaration of class Universe." alt="" coords="292,5,372,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="283,229,339,256"/>
+<area shape="rect" id="node3" href="$planet_8h.html" title="Contains the declaration of class Planet." alt="" coords="198,80,266,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="370,80,425,107"/>
+<area shape="rect" id="node4" href="$cartesianCoordAdapter_8h.html" title="Contains the declaration of class CartesianCoordAdapter." alt="" coords="5,229,171,256"/>
+<area shape="rect" id="node7" href="$lifeForm_8h.html" title="Contains the declaration of class LifeForm." alt="" coords="165,155,243,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="57,379,119,405"/>
+<area shape="rect" id="node6" href="$coordinates_8h.html" title="Contains the declaration of class Coordinates." alt="" coords="82,304,182,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="195,229,259,256"/>
+</map>

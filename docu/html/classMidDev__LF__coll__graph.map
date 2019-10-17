@@ -1,0 +1,12 @@
+<map id="MidDev_LF" name="MidDev_LF">
+<area shape="rect" id="node1" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="375,1288,493,1453"/>
+<area shape="rect" id="node2" href="$classLowDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="299,1059,425,1239"/>
+<area shape="rect" id="node3" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="95,831,226,996"/>
+<area shape="rect" id="node4" title=" " alt="" coords="47,463,186,540"/>
+<area shape="rect" id="node6" href="$classPlanet.html" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="205,647,292,768"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,669,52,746"/>
+<area shape="rect" id="node7" href="$classCartesianCoordAdapter.html" title="Member of pattern Adapter as Adapter and Target. This class can return polar coordinates and cartesia..." alt="" coords="210,419,394,584"/>
+<area shape="rect" id="node8" href="$classCoordinates.html" title="Member of pattern Adapter as Adaptee. An instance of this class represents a point in a 3 dimensional..." alt="" coords="243,175,361,369"/>
+<area shape="rect" id="node9" title=" " alt="" coords="272,5,332,83"/>
+<area shape="rect" id="node10" title=" " alt="" coords="326,669,398,746"/>
+</map>

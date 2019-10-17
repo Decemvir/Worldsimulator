@@ -1,0 +1,11 @@
+<map id="LifeFormEntity::calcNextStep" name="LifeFormEntity::calcNextStep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,197,141"/>
+<area shape="rect" id="node2" href="$classLFJobHandler.html#ad63bc49f12a8191acc7d86a68b7c2b06" title="Adds job to job queue of an specific life form." alt="" coords="267,5,418,32"/>
+<area shape="rect" id="node4" href="$classLifeFormEntity.html#a8d9638f1291ec828528529a8e4b09f2d" title="Calculates random destination on the home planet." alt="" coords="259,107,427,149"/>
+<area shape="rect" id="node5" href="$lifeformEntity_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="565,60,607,87"/>
+<area shape="rect" id="node7" href="$lifeformEntity_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="567,169,605,196"/>
+<area shape="rect" id="node8" href="$classLFJobHandler.html#a1c8ea420a6df4f6671053b2b8d1baf05" title="Works on top priority job." alt="" coords="245,224,440,251"/>
+<area shape="rect" id="node3" href="$classLFJob.html#adf4db5d4feea21776090d22fa5402686" title="Returns working life form." alt="" coords="513,5,659,32"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#aea59d00d6c0a779d89852f00d2a90b1e" title="Returns planet radius." alt="" coords="488,115,684,141"/>
+<area shape="rect" id="node9" href="$classLFJobHandler.html#aac81159ba489c152c19e1e201a784f55" title="Deletes top priority job from a job queue." alt="" coords="491,224,681,251"/>
+</map>

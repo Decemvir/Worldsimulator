@@ -1,0 +1,5 @@
+<map id="CreatedThought" name="CreatedThought">
+<area shape="rect" id="node1" title="Member of pattern Composite as Leaf. &#160;Member of pattern Proxy as RealSubject. &#160;Member of pattern Deco..." alt="" coords="14,300,147,421"/>
+<area shape="rect" id="node2" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="5,131,156,252"/>
+<area shape="rect" id="node3" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="37,5,124,83"/>
+</map>

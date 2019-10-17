@@ -1,0 +1,12 @@
+<map id="HighDev_LFEntity" name="HighDev_LFEntity">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="95,1497,249,1736"/>
+<area shape="rect" id="node2" href="$classMidDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="17,1196,165,1449"/>
+<area shape="rect" id="node3" href="$classLowDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="15,880,166,1148"/>
+<area shape="rect" id="node4" href="$classLifeFormEntity.html" title="Member of pattern Composite as Leaf. Member of pattern Adapter as Adapter and Target...." alt="" coords="5,388,165,832"/>
+<area shape="rect" id="node5" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="25,145,145,325"/>
+<area shape="rect" id="node6" href="$classQObject.html" title=" " alt="" coords="50,5,121,83"/>
+<area shape="rect" id="node7" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="177,131,308,340"/>
+<area shape="rect" id="node8" href="$classLowDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="189,520,315,700"/>
+<area shape="rect" id="node9" href="$classMidDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="193,931,311,1097"/>
+<area shape="rect" id="node10" href="$classHighDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="189,1247,320,1398"/>
+</map>

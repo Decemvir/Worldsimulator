@@ -1,0 +1,4 @@
+<map id="Jesus" name="Jesus">
+<area shape="rect" id="node1" title="Member of pattern Factory as ConcreteProduct. This class represents a god. An instance of Jesus can c..." alt="" coords="35,321,129,399"/>
+<area shape="rect" id="node2" href="$classGod.html" title="Member of pattern Factory as Product. Member of pattern Adapter as Adaptee. This is the interface for..." alt="" coords="5,5,159,273"/>
+</map>

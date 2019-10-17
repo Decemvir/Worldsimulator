@@ -1,0 +1,4 @@
+<map id="SolarSystemEntity::setSunTextureFileName" name="SolarSystemEntity::setSunTextureFileName">
+<area shape="rect" id="node1" title="Sets texture filename for the sun of the solar system." alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a12f20936afb24f2e93b6e94a633c99ae" title="Sets filename (for example Earth.jpg) for the planet texture." alt="" coords="215,5,377,47"/>
+</map>

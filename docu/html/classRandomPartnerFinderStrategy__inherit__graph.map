@@ -1,0 +1,4 @@
+<map id="RandomPartnerFinderStrategy" name="RandomPartnerFinderStrategy">
+<area shape="rect" id="node1" title="Member of pattern Strategy as ConcreteStrategy. Used to find a Woman and a Man for a Partnership...." alt="" coords="5,131,237,208"/>
+<area shape="rect" id="node2" href="$classPartnerFinderStrategy.html" title="Member of pattern Strategy as Strategy. Can be implementes to provide an algorithm to find a Woman an..." alt="" coords="5,5,237,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Coordinates" name="Coordinates">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Adaptee. An instance of this class represents a point in a 3 dimensional..." alt="" coords="38,5,157,229"/>
+<area shape="rect" id="node2" href="$classCartesianCoordAdapter.html" title="Member of pattern Adapter as Adapter and Target. This class can return polar coordinates and cartesia..." alt="" coords="5,277,189,443"/>
+</map>

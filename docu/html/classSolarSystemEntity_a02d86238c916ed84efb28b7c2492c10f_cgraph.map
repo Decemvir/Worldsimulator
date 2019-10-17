@@ -1,0 +1,11 @@
+<map id="SolarSystemEntity::init" name="SolarSystemEntity::init">
+<area shape="rect" id="node1" title="Initialises the solar system (method runs in current OpenGL context)" alt="" coords="5,132,161,159"/>
+<area shape="rect" id="node2" href="$classLightHandler.html#ad0014c36708455df057641e04e2936a0" title="Adds light at specific position if limit is not reached." alt="" coords="223,5,387,32"/>
+<area shape="rect" id="node3" href="$classPlanetEntity.html#a5d194a267a01b6d363e41a9284f25b94" title="Returns center of the orbit." alt="" coords="212,56,397,83"/>
+<area shape="rect" id="node4" href="$classViewOfEntities.html#af9cafe321d4100d31f9f3669a20329df" title="Initialises all children (method runs in current OpenGL context)" alt="" coords="465,107,597,133"/>
+<area shape="rect" id="node5" href="$classPlanetEntity.html#ad293c16eae15b0f43209c7ca7683e0d1" title="Initialises the planet (method runs in current OpenGL context)" alt="" coords="245,157,364,184"/>
+<area shape="rect" id="node8" href="$classLightHandler.html#a0cceb4513e1699510652105826d7ab7f" title="Initialises the light handler (method runs in current OpenGL context)" alt="" coords="209,208,400,235"/>
+<area shape="rect" id="node9" href="$classLightHandler.html#aa3ca4d20dc52838a6abb86f29528fcd6" title="Returns the unique LightHandler. (Singleton)" alt="" coords="229,259,380,285"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#a755c191ad7da164177b3dea566270b7d" title="Calculate the orbit coordinates." alt="" coords="449,157,613,184"/>
+<area shape="rect" id="node7" href="$classPlanetEntity.html#a8af289db91fcc1a3bd5c7382a856ba5c" title="Calculate sphere and texture coordinates." alt="" coords="448,208,615,235"/>
+</map>

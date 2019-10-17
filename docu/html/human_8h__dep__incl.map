@@ -1,0 +1,5 @@
+<map id="human.h" name="human.h">
+<area shape="rect" id="node1" title="Contains the declarations of the classes Human, Observer, Subject, Man, Woman, HumanBreeder,..." alt="" coords="54,5,126,32"/>
+<area shape="rect" id="node2" href="$god_8cpp.html" title="Contains the implementation of class God." alt="" coords="5,80,73,107"/>
+<area shape="rect" id="node3" href="$human_8cpp.html" title="Contains the implementations of the classes Human, Subject, Woman, Man, HumanBreeder,..." alt="" coords="97,80,184,107"/>
+</map>

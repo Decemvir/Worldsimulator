@@ -1,0 +1,4 @@
+<map id="Destiny::createProblemForLifeForm" name="Destiny::createProblemForLifeForm">
+<area shape="rect" id="node1" title="Create a problem for life form LF." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#a6fe8453677cc2b2dbb98f46483236809" title="Solves a given problem.." alt="" coords="231,13,388,39"/>
+</map>

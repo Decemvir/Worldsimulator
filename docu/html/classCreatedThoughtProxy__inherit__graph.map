@@ -1,0 +1,5 @@
+<map id="CreatedThoughtProxy" name="CreatedThoughtProxy">
+<area shape="rect" id="node1" title="Member of pattern Proxy as Proxy. Is Proxy for CreatedThought objects. &#160;Member of pattern Builder as ..." alt="" coords="5,300,172,436"/>
+<area shape="rect" id="node2" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="13,131,164,252"/>
+<area shape="rect" id="node3" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="45,5,132,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="HumanLifeChain::addNewBorn" name="HumanLifeChain::addNewBorn">
+<area shape="rect" id="node1" title="Adds an Human to the list. It will be put on end of list. Creates an HumanLifeChainElement to store t..." alt="" coords="5,35,203,61"/>
+<area shape="rect" id="node2" href="$classSubject.html#a130edb815aef88deebc1542a32fa9af9" title="Should be called when the Subject changes. Calls update() of all attached Observers." alt="" coords="251,5,414,32"/>
+<area shape="rect" id="node3" href="$classHumanLifeChainElement.html#a314f51bc8c035586e4e52461d3553d4e" title="Sets the next element of the chain." alt="" coords="251,57,415,98"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LifeFormEntity::LifeFormEntity" name="LifeFormEntity::LifeFormEntity">
+<area shape="rect" id="node1" title="Constructor of class LifeFormEntity." alt="" coords="5,158,169,199"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a8d9638f1291ec828528529a8e4b09f2d" title="Calculates random destination on the home planet." alt="" coords="235,49,403,90"/>
+<area shape="rect" id="node6" href="$classLFJobHandler.html#a3745f6442967331aadfacb79adb9e1cd" title="Creates a job queue for a specific life form." alt="" coords="217,115,420,141"/>
+<area shape="rect" id="node7" href="$classLifeFormEntity.html#a90e99ab9a8a85bad1d19fa50f9c826fa" title="Returns generation of the life form." alt="" coords="221,165,416,192"/>
+<area shape="rect" id="node8" href="$classLFJobHandler.html#a20013d589f0628a3f3aaf717e79d4f3f" title="Returns the unique LFJobHandler. (Singleton)" alt="" coords="239,216,398,243"/>
+<area shape="rect" id="node9" href="$classDestinyAdapter.html#a6434072640c28ed10f499a307b494206" title="Returns the unique DestinyAdapter. (Singleton)" alt="" coords="235,267,403,293"/>
+<area shape="rect" id="node3" href="$lifeformEntity_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="545,5,587,32"/>
+<area shape="rect" id="node4" href="$classPlanetEntity.html#aea59d00d6c0a779d89852f00d2a90b1e" title="Returns planet radius." alt="" coords="468,56,664,83"/>
+<area shape="rect" id="node5" href="$lifeformEntity_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="547,107,585,133"/>
+</map>

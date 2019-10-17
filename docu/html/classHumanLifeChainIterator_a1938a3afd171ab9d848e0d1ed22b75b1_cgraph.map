@@ -1,0 +1,4 @@
+<map id="HumanLifeChainIterator::HumanLifeChainIterator" name="HumanLifeChainIterator::HumanLifeChainIterator">
+<area shape="rect" id="node1" title="Creates new HumanLifeChainIterator for the given HumanLifeChain. Sets current element to first elemen..." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html#af6311e374e739149355060534bf0e703" title="Returns the first element of list. It contains the oldest Human." alt="" coords="217,13,411,39"/>
+</map>

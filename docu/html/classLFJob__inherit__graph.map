@@ -1,0 +1,9 @@
+<map id="LFJob" name="LFJob">
+<area shape="rect" id="node1" title="Member of pattern Facade as Subsystem classes. Member of pattern Command as Command...." alt="" coords="456,5,603,273"/>
+<area shape="rect" id="node2" href="$classLFAnswerJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form give an a..." alt="" coords="5,321,163,589"/>
+<area shape="rect" id="node3" href="$classLFAskJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form ask anoth..." alt="" coords="187,329,341,582"/>
+<area shape="rect" id="node4" href="$classLFIdleJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form idle for ..." alt="" coords="365,321,518,589"/>
+<area shape="rect" id="node5" href="$classLFMateJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form mate with..." alt="" coords="542,321,695,589"/>
+<area shape="rect" id="node6" href="$classLFMeetJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form meet anot..." alt="" coords="719,336,873,575"/>
+<area shape="rect" id="node7" href="$classLFMoveJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form move towa..." alt="" coords="897,329,1050,582"/>
+</map>

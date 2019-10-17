@@ -1,0 +1,5 @@
+<map id="GodAdapter" name="GodAdapter">
+<area shape="rect" id="node1" title="Member of pattern Composite as Client. Member of pattern Adapter as Adapter and Target...." alt="" coords="26,321,191,677"/>
+<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="5,101,76,178"/>
+<area shape="rect" id="node3" href="$classGod.html" title="Member of pattern Factory as Product. Member of pattern Adapter as Adaptee. This is the interface for..." alt="" coords="100,5,253,273"/>
+</map>

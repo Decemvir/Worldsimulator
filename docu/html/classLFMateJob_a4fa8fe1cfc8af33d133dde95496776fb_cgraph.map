@@ -1,0 +1,10 @@
+<map id="LFMateJob::createChild" name="LFMateJob::createChild">
+<area shape="rect" id="node1" title="Returns new life form instance created from attributes of parents." alt="" coords="5,123,164,149"/>
+<area shape="rect" id="node2" href="$lfJobs_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="286,5,329,32"/>
+<area shape="rect" id="node3" href="$classDestinyAdapter.html#ae95a42b5500d905f3c43def2d8c23dac" title="Returns a randomly generated 4 letter long name." alt="" coords="223,57,392,98"/>
+<area shape="rect" id="node6" href="$classLifeFormEntity.html#ad1c547a9c0cb911240226ef55e489d98" title="Returns development level of the life form." alt="" coords="223,123,391,149"/>
+<area shape="rect" id="node7" href="$classLifeFormEntity.html#aa2f9a11357969e0af14cbbcd9eaf940d" title="Returns name of god that the life form believies in." alt="" coords="212,173,403,200"/>
+<area shape="rect" id="node8" href="$lfJobs_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="288,224,327,251"/>
+<area shape="rect" id="node4" href="$destinyAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="451,39,493,65"/>
+<area shape="rect" id="node5" href="$destinyAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="453,89,491,116"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="solarSystemEntity.h" name="solarSystemEntity.h">
+<area shape="rect" id="node1" title="Contains the declaration of class SolarSystemEntity." alt="" coords="677,5,817,32"/>
+<area shape="rect" id="node2" href="$universeEntity_8h.html" title="Contains the declaration of class UniverseEntity." alt="" coords="611,80,726,107"/>
+<area shape="rect" id="node17" href="$solarSystemEntity_8cpp.html" title="Contains the implementation of class SolarSystemEntity." alt="" coords="750,80,905,107"/>
+<area shape="rect" id="node3" href="$godAdapter_8h.html" title="Contains the declaration of class GodAdapter." alt="" coords="431,155,530,181"/>
+<area shape="rect" id="node5" href="$simwidgetdatamodel_8h.html" title="Contains the declaration of class SimWidgetDatamodel." alt="" coords="556,229,707,256"/>
+<area shape="rect" id="node15" href="$moc__universeEntity_8cpp.html" title=" " alt="" coords="647,155,807,181"/>
+<area shape="rect" id="node16" href="$universeEntity_8cpp.html" title="Contains the implementation of class UniverseEntity." alt="" coords="831,155,959,181"/>
+<area shape="rect" id="node4" href="$moc__godAdapter_8cpp.html" title=" " alt="" coords="387,229,532,256"/>
+<area shape="rect" id="node14" href="$godAdapter_8cpp.html" title="Contains the implementation of class GodAdapter." alt="" coords="249,229,363,256"/>
+<area shape="rect" id="node6" href="$simulationwidget_8h.html" title="Contains the declaration of class SimulationWidget." alt="" coords="405,304,535,331"/>
+<area shape="rect" id="node11" href="$simwidgetcontroller_8cpp.html" title="Contains the implementation of class SimWidgetController." alt="" coords="527,379,685,405"/>
+<area shape="rect" id="node12" href="$simwidgetdatamodel_8cpp.html" title="Contains the implementation of class SimWidgetDatamodel." alt="" coords="710,379,875,405"/>
+<area shape="rect" id="node13" href="$moc__simwidgetdatamodel_8cpp.html" title=" " alt="" coords="694,304,891,331"/>
+<area shape="rect" id="node7" href="$moc__simulationwidget_8cpp.html" title=" " alt="" coords="5,379,180,405"/>
+<area shape="rect" id="node8" href="$simulationwidget_8cpp.html" title="Contains the implementation of class SimulationWidget." alt="" coords="204,379,347,405"/>
+<area shape="rect" id="node9" href="$ui__mindworldsgui_8h.html" title=" " alt="" coords="371,379,503,405"/>
+<area shape="rect" id="node10" href="$mindworldsgui_8cpp.html" title=" " alt="" coords="372,453,501,480"/>
+</map>

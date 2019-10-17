@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSubject.html" title="Member of pattern Observer as Subject. Can be observed. Observers can be attached and detached...." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html" title="Member of pattern Singleton. &#160;Member of pattern Observer as ConcreteSubject. &#160;Member of pattern Itera..." alt="" coords="120,5,236,32"/>
+</map>

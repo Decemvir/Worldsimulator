@@ -1,0 +1,4 @@
+<map id="UniverseEntity::init" name="UniverseEntity::init">
+<area shape="rect" id="node1" title="Initialises the universe (method runs in current OpenGL context)" alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#af9cafe321d4100d31f9f3669a20329df" title="Initialises all children (method runs in current OpenGL context)" alt="" coords="184,5,316,32"/>
+</map>

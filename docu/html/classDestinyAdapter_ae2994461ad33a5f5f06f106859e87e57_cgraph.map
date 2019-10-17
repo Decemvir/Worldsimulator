@@ -1,0 +1,9 @@
+<map id="DestinyAdapter::rendevouzTwoLFEs" name="DestinyAdapter::rendevouzTwoLFEs">
+<area shape="rect" id="node1" title="The life form lf will meet otherLF and on arrival they add each other to there list of known life for..." alt="" coords="5,49,183,90"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a8c5c9e1f079ea9b602d430a207306714" title="Adds MeetJob to the job queue of the life form." alt="" coords="231,56,401,83"/>
+<area shape="rect" id="node3" href="$classLFJobHandler.html#ad63bc49f12a8191acc7d86a68b7c2b06" title="Adds job to job queue of an specific life form." alt="" coords="461,5,612,32"/>
+<area shape="rect" id="node5" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="453,56,620,83"/>
+<area shape="rect" id="node6" href="$classLifeFormEntity.html#a547c68aec28459b31a32a4f6ec1139a6" title="Checks if lf is on the same planet as this." alt="" coords="449,107,624,149"/>
+<area shape="rect" id="node4" href="$classLFJob.html#adf4db5d4feea21776090d22fa5402686" title="Returns working life form." alt="" coords="700,5,847,32"/>
+<area shape="rect" id="node7" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="672,107,875,149"/>
+</map>

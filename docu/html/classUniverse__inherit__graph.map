@@ -1,0 +1,4 @@
+<map id="Universe" name="Universe">
+<area shape="rect" id="node1" title="Member of pattern Singleton. Member of pattern Adapter as Adaptee. An instance of this class represen..." alt="" coords="22,5,147,229"/>
+<area shape="rect" id="node2" href="$classUniverseEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Singleton. Redefines and adds to t..." alt="" coords="5,277,164,692"/>
+</map>

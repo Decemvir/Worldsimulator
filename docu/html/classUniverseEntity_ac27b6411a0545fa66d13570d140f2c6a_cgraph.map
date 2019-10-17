@@ -1,0 +1,6 @@
+<map id="UniverseEntity::add" name="UniverseEntity::add">
+<area shape="rect" id="node1" title="Adds solar system to the universe." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a72c5a154fb676f628fe54885983cf40d" title="Adds entity to the list of children." alt="" coords="201,5,337,32"/>
+<area shape="rect" id="node4" href="$classUniverseEntity.html#a5338a255b3a40e134c8d4d25ddee4dd1" title="Check if universe contains specific entity." alt="" coords="188,56,351,83"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="399,31,563,57"/>
+</map>

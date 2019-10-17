@@ -1,0 +1,4 @@
+<map id="DestinyAdapter::getNumberOfUnbornLFEs" name="DestinyAdapter::getNumberOfUnbornLFEs">
+<area shape="rect" id="node1" title="Returns number of life forms that are queued up to be created." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$classLFMateJob.html#a903c1eba540eacf363b74db91a9fa7dc" title="Returns number of mate jobs." alt="" coords="236,13,431,39"/>
+</map>

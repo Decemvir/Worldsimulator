@@ -1,0 +1,4 @@
+<map id="PlanetEntity::getSize" name="PlanetEntity::getSize">
+<area shape="rect" id="node1" title="Returns amount of children." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#af0943de98ac98f9f0e11344db8702513" title="Returns children list size." alt="" coords="199,5,357,32"/>
+</map>

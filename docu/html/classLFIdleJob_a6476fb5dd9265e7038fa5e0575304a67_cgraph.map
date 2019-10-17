@@ -1,0 +1,5 @@
+<map id="LFIdleJob::operator=" name="LFIdleJob::operator=">
+<area shape="rect" id="node1" title="Overload of the operator =." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$classLFIdleJob.html#aea9c01224828226f7239e292435da389" title="Returns current idle tick." alt="" coords="193,5,363,32"/>
+<area shape="rect" id="node3" href="$classLFIdleJob.html#ac81e2cbd4d6d469a3f0f89b9362c722c" title="Returns number of ticks to idle." alt="" coords="197,56,359,83"/>
+</map>

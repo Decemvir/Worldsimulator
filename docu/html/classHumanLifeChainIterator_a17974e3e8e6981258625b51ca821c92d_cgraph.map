@@ -1,0 +1,5 @@
+<map id="HumanLifeChainIterator::nextHuman" name="HumanLifeChainIterator::nextHuman">
+<area shape="rect" id="node1" title="Returns stored Human of current element and sets current element to." alt="" coords="5,39,161,80"/>
+<area shape="rect" id="node2" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="209,5,373,47"/>
+<area shape="rect" id="node3" href="$classHumanLifeChainElement.html#a750ebfb76fe2f06c39afddd7d799dd41" title="Returns the next element of the chain." alt="" coords="209,71,373,112"/>
+</map>

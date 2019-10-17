@@ -1,0 +1,4 @@
+<map id="PlanetEntity::isEmpty" name="PlanetEntity::isEmpty">
+<area shape="rect" id="node1" title="Checks if planet holds no entities." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#ae46c05d86bb34bd1d5b6bec2c1d17941" title="Returns true if this view has no children." alt="" coords="203,5,365,32"/>
+</map>

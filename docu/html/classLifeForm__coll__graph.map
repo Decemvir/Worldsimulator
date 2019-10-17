@@ -1,0 +1,10 @@
+<map id="LifeForm" name="LifeForm">
+<area shape="rect" id="node1" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="187,831,317,996"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,463,144,540"/>
+<area shape="rect" id="node4" href="$classPlanet.html" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="163,647,250,768"/>
+<area shape="rect" id="node3" title=" " alt="" coords="285,669,331,746"/>
+<area shape="rect" id="node5" href="$classCartesianCoordAdapter.html" title="Member of pattern Adapter as Adapter and Target. This class can return polar coordinates and cartesia..." alt="" coords="168,419,352,584"/>
+<area shape="rect" id="node6" href="$classCoordinates.html" title="Member of pattern Adapter as Adaptee. An instance of this class represents a point in a 3 dimensional..." alt="" coords="201,175,319,369"/>
+<area shape="rect" id="node7" title=" " alt="" coords="230,5,290,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="371,669,443,746"/>
+</map>

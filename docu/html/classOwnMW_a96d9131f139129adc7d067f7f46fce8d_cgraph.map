@@ -1,0 +1,16 @@
+<map id="OwnMW::get_Instance" name="OwnMW::get_Instance">
+<area shape="rect" id="node1" title="Creates and returns a single instance of OwnMW." alt="" coords="5,183,160,209"/>
+<area shape="rect" id="node2" href="$classOwnMW.html#a05d87c6d6d8329d4fd9389867494c4e7" title="Constructor of OwnMW." alt="" coords="208,183,339,209"/>
+<area shape="rect" id="node3" href="$classOwnMW.html#af9e91792370eda25f96fb509a4f13d72" title="Initializion of the OwnMW." alt="" coords="387,183,513,209"/>
+<area shape="rect" id="node4" href="$classMindWorld.html#ad9128c38f0510f015e457fe0ce672f27" title="Adds a MindWorldComponent to the MindWorld." alt="" coords="807,5,921,32"/>
+<area shape="rect" id="node5" href="$classView.html#a627eaeb496479655c79e62af0953ae03" title=" " alt="" coords="601,208,701,235"/>
+<area shape="rect" id="node8" href="$classThought.html#a6f3c56138bc35872597845687426671f" title="Changes the Thought." alt="" coords="591,259,710,285"/>
+<area shape="rect" id="node9" href="$classMindWorld.html#a87aa878d44bb624be40f51d3d4656080" title="Creates a thought." alt="" coords="561,56,740,83"/>
+<area shape="rect" id="node11" href="$classMindWorld.html#a503d4161ccc7e9876cbd06914d7efd66" title="Constructor of MindWorld." alt="" coords="573,309,728,336"/>
+<area shape="rect" id="node12" href="$classThought.html#ada5ac33f9bf2cc97e7171c64ef522df0" title="Redos an executed command." alt="" coords="597,107,705,133"/>
+<area shape="rect" id="node13" href="$classThought.html#a771629acc121ef905c211f7ab98813cd" title="Shows the Thought object." alt="" coords="590,360,711,387"/>
+<area shape="rect" id="node14" href="$classThought.html#ae5ca383b1f5d83557eaa5a9651df7135" title="Undos an executed command." alt="" coords="597,157,705,184"/>
+<area shape="rect" id="node6" href="$classMindWorldComponent.html#a62b36925144f7fe520b22b707ee90d0a" title=" " alt="" coords="789,150,939,191"/>
+<area shape="rect" id="node7" href="$classMindWorldComponent.html#a34a241f954862f2b626cd3ac423dc8fe" title=" " alt="" coords="789,215,939,257"/>
+<area shape="rect" id="node10" href="$classThoughtBuilder.html#a215e7c4fb62786a8b970a98c7fc4f043" title=" " alt="" coords="788,57,940,98"/>
+</map>

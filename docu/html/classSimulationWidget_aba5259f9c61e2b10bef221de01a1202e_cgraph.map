@@ -1,0 +1,6 @@
+<map id="SimulationWidget::paintGL" name="SimulationWidget::paintGL">
+<area shape="rect" id="node1" title="OpenGL paint event." alt="" coords="5,13,183,39"/>
+<area shape="rect" id="node2" href="$classSimWidgetDatamodel.html#afa5c1ea0196e40706778638a5c75110c" title="Redraw the whole universe." alt="" coords="231,5,379,47"/>
+<area shape="rect" id="node3" href="$classUniverseEntity.html#ae90573d1dd2c7b3ea847652a48b6d454" title="Draw universe (method runs in current OpenGL context)" alt="" coords="427,13,567,39"/>
+<area shape="rect" id="node4" href="$classViewOfEntities.html#aa1e0313ef7c89bf262e21bde378e635a" title="Draw the next frame for all children (method runs in current OpenGL context)" alt="" coords="615,13,757,39"/>
+</map>

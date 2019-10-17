@@ -1,0 +1,5 @@
+<map id="ThoughtBuilder" name="ThoughtBuilder">
+<area shape="rect" id="node1" title="Member of pattern Builder as Builder. Builds objects of type CreatedThoughtProxy." alt="" coords="85,5,213,83"/>
+<area shape="rect" id="node2" href="$classBadThoughtBuilder.html" title="Member of pattern Builder as ConcreteBuilder. It creates an proxy of an realy bad Thought." alt="" coords="5,131,136,208"/>
+<area shape="rect" id="node3" href="$classGoodThoughtBuilder.html" title="Member of pattern Builder as ConcreteBuilder. It creates an proxy of an realy good Thought." alt="" coords="160,131,299,208"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Planet::addLF" name="Planet::addLF">
+<area shape="rect" id="node1" title="Adds a lifeform to the planet." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#a43e5ce351679f09fb360fdfd0dc6eb4d" title="Returns the home planet of the lifeform." alt="" coords="156,5,325,32"/>
+<area shape="rect" id="node3" href="$classLifeForm.html#ae154496e65e561334720b59d07fc3687" title="The life begins on a planet." alt="" coords="177,56,304,83"/>
+</map>

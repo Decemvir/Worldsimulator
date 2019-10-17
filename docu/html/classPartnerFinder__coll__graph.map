@@ -1,0 +1,4 @@
+<map id="PartnerFinder" name="PartnerFinder">
+<area shape="rect" id="node1" title="Member of pattern Strategy as Context. Used to find a Woman and a Man for a Partnership...." alt="" coords="5,145,237,252"/>
+<area shape="rect" id="node2" href="$classPartnerFinderStrategy.html" title="Member of pattern Strategy as Strategy. Can be implementes to provide an algorithm to find a Woman an..." alt="" coords="5,5,237,83"/>
+</map>

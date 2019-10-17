@@ -1,0 +1,4 @@
+<map id="PlanetEntity::setOrbitCenter" name="PlanetEntity::setOrbitCenter">
+<area shape="rect" id="node1" title="Sets new center for the orbit of the planet." alt="" coords="5,13,191,39"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="239,5,400,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Thinkable" name="Thinkable">
+<area shape="rect" id="node1" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="481,5,567,83"/>
+<area shape="rect" id="node2" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="449,131,599,252"/>
+<area shape="rect" id="node3" href="$classCreatedThought.html" title="Member of pattern Composite as Leaf. &#160;Member of pattern Proxy as RealSubject. &#160;Member of pattern Deco..." alt="" coords="5,366,139,487"/>
+<area shape="rect" id="node4" href="$classCreatedThoughtProxy.html" title="Member of pattern Proxy as Proxy. Is Proxy for CreatedThought objects. &#160;Member of pattern Builder as ..." alt="" coords="163,359,330,495"/>
+<area shape="rect" id="node5" href="$classDecorator.html" title="Member of pattern Decorator as Decorator. Adds additional functionality to MindWorldComponents,..." alt="" coords="355,373,453,480"/>
+<area shape="rect" id="node7" href="$classFeeling.html" title="Member of pattern Composite as Leaf. Is a feeling of an human. &#160;Member of pattern Decorator as Concre..." alt="" coords="478,366,570,487"/>
+<area shape="rect" id="node8" href="$classMindWorld.html" title="Member of pattern Composite as Composite. &#160;Member of pattern ChainOfresponsibility as Client and as C..." alt="" coords="595,300,723,553"/>
+<area shape="rect" id="node10" href="$classThought.html" title="Member of pattern Composite as Leaf. Is a thought of an human. &#160;Member of pattern Decorator as Concre..." alt="" coords="747,329,869,524"/>
+<area shape="rect" id="node11" href="$classView.html" title="Member of pattern Composite as Leaf. Is a view of an human. &#160;Member of pattern Decorator as ConcreteC..." alt="" coords="894,366,986,487"/>
+<area shape="rect" id="node6" href="$classExplainable.html" title="Member of pattern Decorator as ConcreteDecorator. Decorates the &quot;ToWrite()&quot;&#45;Method of Thinkable objec..." alt="" coords="330,616,478,737"/>
+<area shape="rect" id="node9" href="$classOwnMW.html" title="Member of pattern Composite as Composite. Is the one MindWorld, each Human has one...." alt="" coords="601,601,717,752"/>
+</map>

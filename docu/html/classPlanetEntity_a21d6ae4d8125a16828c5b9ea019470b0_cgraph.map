@@ -1,0 +1,4 @@
+<map id="PlanetEntity::draw" name="PlanetEntity::draw">
+<area shape="rect" id="node1" title="Draw planet (method runs in current OpenGL context)" alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#aa1e0313ef7c89bf262e21bde378e635a" title="Draw the next frame for all children (method runs in current OpenGL context)" alt="" coords="181,5,324,32"/>
+</map>

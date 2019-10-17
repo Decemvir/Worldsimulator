@@ -1,0 +1,4 @@
+<map id="PlanetEntity::setPlanetRadius" name="PlanetEntity::setPlanetRadius">
+<area shape="rect" id="node1" title="Sets new radius for the planet." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a8af289db91fcc1a3bd5c7382a856ba5c" title="Calculate sphere and texture coordinates." alt="" coords="249,5,416,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LifeFormEntity" name="LifeFormEntity">
+<area shape="rect" id="node1" title="Member of pattern Composite as Leaf. Member of pattern Adapter as Adapter and Target...." alt="" coords="60,388,220,832"/>
+<area shape="rect" id="node5" href="$classLowDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="65,880,215,1148"/>
+<area shape="rect" id="node2" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="5,145,125,325"/>
+<area shape="rect" id="node3" href="$classQObject.html" title=" " alt="" coords="30,5,101,83"/>
+<area shape="rect" id="node4" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="149,131,280,340"/>
+<area shape="rect" id="node6" href="$classMidDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="66,1196,214,1449"/>
+<area shape="rect" id="node7" href="$classHighDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="63,1497,217,1736"/>
+</map>

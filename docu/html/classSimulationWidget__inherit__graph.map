@@ -1,0 +1,5 @@
+<map id="SimulationWidget" name="SimulationWidget">
+<area shape="rect" id="node1" title="Represents the View of the Model&#45;View&#45;Controller Sets the widgets OpenGL context + shader up and conf..." alt="" coords="59,131,225,560"/>
+<area shape="rect" id="node2" href="$classQOpenGLWidget.html" title=" " alt="" coords="5,5,127,83"/>
+<area shape="rect" id="node3" href="$classQOpenGLFunctions.html" title=" " alt="" coords="151,5,288,83"/>
+</map>

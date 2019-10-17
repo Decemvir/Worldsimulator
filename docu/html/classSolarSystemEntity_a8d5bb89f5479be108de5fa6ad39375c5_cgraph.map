@@ -1,0 +1,4 @@
+<map id="SolarSystemEntity::destroy" name="SolarSystemEntity::destroy">
+<area shape="rect" id="node1" title="Destroy all entities held by the solarsystem." alt="" coords="5,22,144,63"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a03009d059d7d844cf9d5e66a09bd70b4" title="Destroys all child instances currently held by the view." alt="" coords="192,29,351,56"/>
+</map>

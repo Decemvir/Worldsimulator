@@ -1,0 +1,4 @@
+<map id="Destiny::rendevouzTwoLF" name="Destiny::rendevouzTwoLF">
+<area shape="rect" id="node1" title="Adds life form LF2 to the list of known life forms of LF1 and the other way around...." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#a934b40ca0a80f965511376c66207a6fd" title="A life form is added to the list of friends, the calling object has." alt="" coords="224,5,372,32"/>
+</map>

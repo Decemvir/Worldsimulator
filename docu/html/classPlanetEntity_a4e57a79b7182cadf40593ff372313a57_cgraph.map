@@ -1,0 +1,7 @@
+<map id="PlanetEntity::removeInhabitant" name="PlanetEntity::removeInhabitant">
+<area shape="rect" id="node1" title="Removes inhabitant from the planet." alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a451fb8f39f4338d0e919ed021de33b7d" title="Checks if planet contains entity." alt="" coords="260,29,411,56"/>
+<area shape="rect" id="node4" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="252,80,419,107"/>
+<area shape="rect" id="node5" href="$classViewOfEntities.html#a564445bc63bf986949916e682c33e295" title="Removes entity from the list of children." alt="" coords="257,131,413,157"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="467,29,631,56"/>
+</map>

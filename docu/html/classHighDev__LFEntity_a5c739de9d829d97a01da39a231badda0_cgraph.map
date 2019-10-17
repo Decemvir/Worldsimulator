@@ -1,0 +1,5 @@
+<map id="HighDev_LFEntity::setVisibility" name="HighDev_LFEntity::setVisibility">
+<area shape="rect" id="node1" title="Sets the visibility for the life form." alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a292b7a4c3bb680368c294bd81cee2a67" title="Sets the visibility for the life form." alt="" coords="253,5,435,32"/>
+<area shape="rect" id="node3" href="$classEntity.html#aa2611a485f13812660a4585d1d79d28e" title="Sets the visibility." alt="" coords="483,5,613,32"/>
+</map>

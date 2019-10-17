@@ -1,0 +1,6 @@
+<map id="Deus_Ex_Factory" name="Deus_Ex_Factory">
+<area shape="rect" id="node1" title="Member of pattern Factory as Creator. This class can create an instance of a god. This factory has al..." alt="" coords="122,5,313,156"/>
+<area shape="rect" id="node2" href="$classAlah__Ex__Factory.html" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class Alah...." alt="" coords="5,204,128,281"/>
+<area shape="rect" id="node3" href="$classJesus__Ex__Factory.html" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class Jesus...." alt="" coords="152,204,283,281"/>
+<area shape="rect" id="node4" href="$classVeryHighDevLF__Ex__Factory.html" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class VeryHighDev_..." alt="" coords="307,204,493,281"/>
+</map>

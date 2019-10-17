@@ -1,0 +1,6 @@
+<map id="HumanHerold" name="HumanHerold">
+<area shape="rect" id="node1" title="Member of pattern Observer as Observer. Abstract Observer for HumanLifeChain." alt="" coords="100,131,236,223"/>
+<area shape="rect" id="node3" href="$classHumanDeathHerold.html" title="Member of pattern Observer as ConcreteObserver. Prints to the console that a Human died." alt="" coords="5,271,160,392"/>
+<area shape="rect" id="node4" href="$classHumanLifeHerold.html" title="Member of pattern Observer as ConcreteObserver. Prints a newborn Human to the console." alt="" coords="185,278,325,385"/>
+<area shape="rect" id="node2" href="$classObserver.html" title="Member of pattern Observer as Observer. Observes a Subject. Can be attached to it...." alt="" coords="127,5,209,83"/>
+</map>

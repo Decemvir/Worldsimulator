@@ -1,0 +1,12 @@
+<map id="ChangeCommand" name="ChangeCommand">
+<area shape="rect" id="node1" title="Member of pattern Command as a ConcreteCommand. A Command to change an Thought in a Humans MindWorld...." alt="" coords="213,572,359,693"/>
+<area shape="rect" id="node2" href="$classCommand.html" title="Member of pattern Command as Command. Defines basic functionality for ChangeCommands." alt="" coords="115,366,206,458"/>
+<area shape="rect" id="node3" href="$classThought.html" title="Member of pattern Composite as Leaf. Is a thought of an human. &#160;Member of pattern Decorator as Concre..." alt="" coords="231,329,341,495"/>
+<area shape="rect" id="node4" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="16,145,167,267"/>
+<area shape="rect" id="node5" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="5,5,92,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="116,5,155,83"/>
+<area shape="rect" id="node7" title=" " alt="" coords="191,167,237,245"/>
+<area shape="rect" id="node8" title=" " alt="" coords="262,167,454,245"/>
+<area shape="rect" id="node9" title=" " alt="" coords="479,167,541,245"/>
+<area shape="rect" id="node10" title=" " alt="" coords="366,373,422,451"/>
+</map>

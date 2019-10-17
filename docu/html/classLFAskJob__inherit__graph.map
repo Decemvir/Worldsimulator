@@ -1,0 +1,4 @@
+<map id="LFAskJob" name="LFAskJob">
+<area shape="rect" id="node1" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form ask anoth..." alt="" coords="5,321,159,575"/>
+<area shape="rect" id="node2" href="$classLFJob.html" title="Member of pattern Facade as Subsystem classes. Member of pattern Command as Command...." alt="" coords="9,5,155,273"/>
+</map>

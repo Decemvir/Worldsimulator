@@ -1,0 +1,4 @@
+<map id="Destiny::getDestiny" name="Destiny::getDestiny">
+<area shape="rect" id="node1" title="Returns the unique Destiny. (Singleton)" alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$classDestiny.html#a25de03ede393182ebe507249a237bda8" title="Constructor of class Destiny." alt="" coords="189,5,308,32"/>
+</map>

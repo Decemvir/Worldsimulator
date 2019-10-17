@@ -1,0 +1,7 @@
+<map id="PlanetEntity::removeSatellite" name="PlanetEntity::removeSatellite">
+<area shape="rect" id="node1" title="Removes satellite from the planet." alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a451fb8f39f4338d0e919ed021de33b7d" title="Checks if planet contains entity." alt="" coords="245,29,396,56"/>
+<area shape="rect" id="node4" href="$classPlanetEntity.html#a4fdf5afbfc5a3ac46fd8e621dd33299e" title="Returns name of the planet." alt="" coords="244,80,397,107"/>
+<area shape="rect" id="node5" href="$classViewOfEntities.html#a564445bc63bf986949916e682c33e295" title="Removes entity from the list of children." alt="" coords="243,131,399,157"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="447,29,611,56"/>
+</map>

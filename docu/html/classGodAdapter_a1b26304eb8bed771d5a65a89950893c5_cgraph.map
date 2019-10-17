@@ -1,0 +1,6 @@
+<map id="GodAdapter::GetTimeOfUniverse" name="GodAdapter::GetTimeOfUniverse">
+<area shape="rect" id="node1" title="Returns universe time." alt="" coords="5,31,216,57"/>
+<area shape="rect" id="node2" href="$classUniverseEntity.html#a713a25dbe1dcc6c4ae7a7e1003c76698" title="Returns time of universe." alt="" coords="264,31,423,57"/>
+<area shape="rect" id="node3" href="$classUniverse.html#a6b95c394b56d36638de7e7700c6cf78b" title="Returns the time of the universe." alt="" coords="481,5,607,32"/>
+<area shape="rect" id="node4" href="$classUniverse.html#ac0c2819888712e6bd5b17d64ee3a32bf" title="Gets the instance of the universe. ." alt="" coords="471,56,617,83"/>
+</map>

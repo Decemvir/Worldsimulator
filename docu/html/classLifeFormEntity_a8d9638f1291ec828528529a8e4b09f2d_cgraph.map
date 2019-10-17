@@ -1,0 +1,6 @@
+<map id="LifeFormEntity::calcRandDestination" name="LifeFormEntity::calcRandDestination">
+<area shape="rect" id="node1" title="Calculates random destination on the home planet." alt="" coords="5,49,173,90"/>
+<area shape="rect" id="node2" href="$lifeformEntity_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="298,5,341,32"/>
+<area shape="rect" id="node3" href="$classPlanetEntity.html#aea59d00d6c0a779d89852f00d2a90b1e" title="Returns planet radius." alt="" coords="221,56,417,83"/>
+<area shape="rect" id="node4" href="$lifeformEntity_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="300,107,339,133"/>
+</map>

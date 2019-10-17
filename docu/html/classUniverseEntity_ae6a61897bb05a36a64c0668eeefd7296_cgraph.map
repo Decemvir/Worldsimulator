@@ -1,0 +1,4 @@
+<map id="UniverseEntity::destroy" name="UniverseEntity::destroy">
+<area shape="rect" id="node1" title="Destroy all entities held by the universe." alt="" coords="5,29,161,56"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a03009d059d7d844cf9d5e66a09bd70b4" title="Destroys all child instances currently held by the view." alt="" coords="209,29,368,56"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SolarSystemEntity::getSolarSystemCenter" name="SolarSystemEntity::getSolarSystemCenter">
+<area shape="rect" id="node1" title="Returns current solar system center." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a5d194a267a01b6d363e41a9284f25b94" title="Returns center of the orbit." alt="" coords="207,13,392,39"/>
+</map>

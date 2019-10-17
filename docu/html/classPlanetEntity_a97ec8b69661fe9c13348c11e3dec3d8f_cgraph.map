@@ -1,0 +1,4 @@
+<map id="PlanetEntity::destroy" name="PlanetEntity::destroy">
+<area shape="rect" id="node1" title="Destroy all entities held by the planet." alt="" coords="5,29,149,56"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a03009d059d7d844cf9d5e66a09bd70b4" title="Destroys all child instances currently held by the view." alt="" coords="197,29,356,56"/>
+</map>

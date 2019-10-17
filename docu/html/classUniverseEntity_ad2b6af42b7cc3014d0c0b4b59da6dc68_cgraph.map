@@ -1,0 +1,4 @@
+<map id="UniverseEntity::clear" name="UniverseEntity::clear">
+<area shape="rect" id="node1" title="Removes all entities from the universe." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a20d5d99d189a39e7f6f2185ecdc76bcc" title="Clears the list of children." alt="" coords="195,5,337,32"/>
+</map>

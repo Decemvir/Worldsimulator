@@ -1,0 +1,4 @@
+<map id="HumanHandler::Instance" name="HumanHandler::Instance">
+<area shape="rect" id="node1" title="Returns the single instance of HumanHandler." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node2" href="$classHumanHandler.html#a46178de46c60f4d8a1b740aa8c3cb7a9" title="Constructor of HumanHandler. Use Instance() to get instance of HumanHandler." alt="" coords="217,5,417,32"/>
+</map>

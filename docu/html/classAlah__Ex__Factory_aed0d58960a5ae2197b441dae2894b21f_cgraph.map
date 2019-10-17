@@ -1,0 +1,7 @@
+<map id="Alah_Ex_Factory::createGod" name="Alah_Ex_Factory::createGod">
+<area shape="rect" id="node1" title="Creates an instance of god Alah, if no god B was created before. Else it returns B." alt="" coords="5,46,196,73"/>
+<area shape="rect" id="node2" href="$classDeus__Ex__Factory.html#aa298c3c75589c6ad480558bf5e53a33d" title="Returns the instance of class God." alt="" coords="244,5,445,47"/>
+<area shape="rect" id="node3" href="$classDeus__Ex__Factory.html#ad2a7f9756cbab054a4694454723bedc6" title="Sets a instance of a class God." alt="" coords="244,71,445,112"/>
+<area shape="rect" id="node4" href="$classDeus__Ex__Factory.html#aa6e77c8d0292adc92eafc4d243d53131" title="Returns the flag if a instance of class God was created." alt="" coords="493,37,695,79"/>
+<area shape="rect" id="node5" href="$classDeus__Ex__Factory.html#a08abf4333de0e60f8f00c45d61097d6d" title="Sets the flag if a instance of class God was created." alt="" coords="493,103,695,144"/>
+</map>

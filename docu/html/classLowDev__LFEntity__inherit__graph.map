@@ -1,0 +1,10 @@
+<map id="LowDev_LFEntity" name="LowDev_LFEntity">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="93,880,243,1148"/>
+<area shape="rect" id="node7" href="$classMidDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="94,1196,242,1449"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html" title="Member of pattern Composite as Leaf. Member of pattern Adapter as Adapter and Target...." alt="" coords="5,388,165,832"/>
+<area shape="rect" id="node3" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="25,145,145,325"/>
+<area shape="rect" id="node4" href="$classQObject.html" title=" " alt="" coords="50,5,121,83"/>
+<area shape="rect" id="node5" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="177,131,308,340"/>
+<area shape="rect" id="node6" href="$classLowDev__LF.html" title="Member of pattern ChainOfresponsibility as ConcreteHandler. Member of pattern Adapter as Adaptee...." alt="" coords="189,520,315,700"/>
+<area shape="rect" id="node8" href="$classHighDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="91,1497,245,1736"/>
+</map>

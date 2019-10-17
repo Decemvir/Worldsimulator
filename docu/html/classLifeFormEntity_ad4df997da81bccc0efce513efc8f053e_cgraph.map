@@ -1,0 +1,5 @@
+<map id="LifeFormEntity::resetPlanetRadius" name="LifeFormEntity::resetPlanetRadius">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,185,65"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#aea59d00d6c0a779d89852f00d2a90b1e" title="Returns planet radius." alt="" coords="233,5,429,32"/>
+<area shape="rect" id="node3" href="$classCoordinates.html#a61950ca41f3231d2cbdec5e82a0a2c38" title="Sets the radius." alt="" coords="261,56,401,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SimWidgetController" name="SimWidgetController">
+<area shape="rect" id="node1" title="Represents the Controller of the Model&#45;View&#45;Controller Triggers the calculation of the next step,..." alt="" coords="5,131,175,369"/>
+<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="55,5,125,83"/>
+</map>

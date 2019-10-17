@@ -1,0 +1,6 @@
+<map id="CartesianCoordAdapter::getX" name="CartesianCoordAdapter::getX">
+<area shape="rect" id="node1" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="5,49,161,90"/>
+<area shape="rect" id="node2" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="209,5,369,32"/>
+<area shape="rect" id="node3" href="$classCoordinates.html#a4768e1c7134092f6633946c49cfabc2a" title="Returns the radius." alt="" coords="219,56,359,83"/>
+<area shape="rect" id="node4" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="209,107,369,133"/>
+</map>

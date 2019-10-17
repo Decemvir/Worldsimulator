@@ -1,0 +1,4 @@
+<map id="Planet" name="Planet">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="27,5,123,141"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html" title="Member of pattern Adapter as Adapter and Target. Redefines and adds to the interface functionality in..." alt="" coords="5,189,144,604"/>
+</map>

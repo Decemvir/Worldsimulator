@@ -1,0 +1,10 @@
+<map id="SimWidgetController::advanceOneStep" name="SimWidgetController::advanceOneStep">
+<area shape="rect" id="node1" title="Advance one step by calculating the next step and updating the view with the new data." alt="" coords="5,86,147,127"/>
+<area shape="rect" id="node2" href="$classSimWidgetDatamodel.html#af2ba4ba2564c712c14a40aad584ac0c5" title="Calculate next step for the whole universe." alt="" coords="195,86,343,127"/>
+<area shape="rect" id="node3" href="$classUniverseEntity.html#af9a797902e4c3d7b5e8631aef079f6a9" title="Calculates the next step for the universe." alt="" coords="405,5,595,32"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="419,57,581,98"/>
+<area shape="rect" id="node7" href="$classGodAdapter.html#a5402a425ffa74bd2ee9768dfd0f0e4a5" title="Returns predefined planet that should be observed." alt="" coords="393,123,607,149"/>
+<area shape="rect" id="node8" href="$classSimulationWidget.html#a6e6ba17799d9017450b32ae763cb0530" title="Sets camera position." alt="" coords="391,173,609,200"/>
+<area shape="rect" id="node4" href="$classViewOfEntities.html#a3f91b109df77a8cd2c83f42ec46ec3b7" title="Calculates the next step for every child." alt="" coords="657,5,851,32"/>
+<area shape="rect" id="node5" href="$classEntity.html#a3743e1b4ca7fa3a4e2a145a6d1bf76fc" title=" " alt="" coords="899,5,1041,32"/>
+</map>

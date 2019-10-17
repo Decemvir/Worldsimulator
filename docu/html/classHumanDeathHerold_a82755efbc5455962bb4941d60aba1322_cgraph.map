@@ -1,0 +1,7 @@
+<map id="HumanDeathHerold::attachToSubject" name="HumanDeathHerold::attachToSubject">
+<area shape="rect" id="node1" title="Attaches an observer to a subject." alt="" coords="5,49,184,90"/>
+<area shape="rect" id="node2" href="$classHumanHerold.html#a7997f6b788d39e2353251d1d28a4f724" title="Attach this to the given HumanLifeChain." alt="" coords="232,5,435,32"/>
+<area shape="rect" id="node4" href="$classHumanLifeChain.html#af6311e374e739149355060534bf0e703" title="Returns the first element of list. It contains the oldest Human." alt="" coords="237,56,430,83"/>
+<area shape="rect" id="node5" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="251,107,415,149"/>
+<area shape="rect" id="node3" href="$classSubject.html#af0514087b715431f6095cd1dcd0e8e46" title="Attaches an Observer." alt="" coords="483,5,644,32"/>
+</map>

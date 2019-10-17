@@ -1,0 +1,15 @@
+<map id="HighDev_LFEntity::init" name="HighDev_LFEntity::init">
+<area shape="rect" id="node1" title="Initialises the life form (method runs in current OpenGL context)" alt="" coords="5,130,156,157"/>
+<area shape="rect" id="node2" href="$classMidDev__LFEntity.html#a11536411285a99f4c71f50b79ead7e55" title="Initialises the life form (method runs in current OpenGL context)" alt="" coords="204,130,349,157"/>
+<area shape="rect" id="node3" href="$classLowDev__LFEntity.html#a5dca0a1d8a4fbeebf0b4ab805001c25e" title="Initialises the life form (method runs in current OpenGL context)" alt="" coords="397,130,544,157"/>
+<area shape="rect" id="node4" href="$classLifeFormEntity.html#a65e8096bb902e21ff2303f6e66815a51" title="Initialises the life form (method runs in current OpenGL context)" alt="" coords="592,130,723,157"/>
+<area shape="rect" id="node5" href="$classLifeFormEntity.html#ac8213d1df9282f936662f93fbcbb05a5" title="Returns absolute position of the life form." alt="" coords="771,123,947,164"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="1000,5,1161,47"/>
+<area shape="rect" id="node7" href="$classPlanetEntity.html#ab9d1a8102981b9fb01297f289df70760" title="Returns rot angle of the planet." alt="" coords="995,71,1167,98"/>
+<area shape="rect" id="node8" href="$classCartesianCoordAdapter.html#a5af89c405412b8e6a362c272cd7e660a" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="1003,188,1159,229"/>
+<area shape="rect" id="node12" href="$classCartesianCoordAdapter.html#a20cd132d365084072e5a22a1a56fd797" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="1003,123,1159,164"/>
+<area shape="rect" id="node13" href="$classCartesianCoordAdapter.html#a9812b84e1c0f5cbf17250396996ea0e5" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="1003,253,1159,295"/>
+<area shape="rect" id="node9" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="1215,134,1375,161"/>
+<area shape="rect" id="node10" href="$classCoordinates.html#a4768e1c7134092f6633946c49cfabc2a" title="Returns the radius." alt="" coords="1225,242,1365,269"/>
+<area shape="rect" id="node11" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="1215,191,1375,218"/>
+</map>

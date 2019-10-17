@@ -1,0 +1,9 @@
+<map id="OwnMW" name="OwnMW">
+<area shape="rect" id="node1" title="Member of pattern Composite as Composite. Is the one MindWorld, each Human has one...." alt="" coords="241,603,357,753"/>
+<area shape="rect" id="node2" href="$classMindWorld.html" title="Member of pattern Composite as Composite. &#160;Member of pattern ChainOfresponsibility as Client and as C..." alt="" coords="235,329,363,553"/>
+<area shape="rect" id="node3" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="16,145,167,267"/>
+<area shape="rect" id="node4" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="5,5,92,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="116,5,155,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="191,167,408,245"/>
+<area shape="rect" id="node7" title=" " alt="" coords="433,167,489,245"/>
+</map>

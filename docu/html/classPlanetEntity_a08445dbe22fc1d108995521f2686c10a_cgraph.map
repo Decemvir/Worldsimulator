@@ -1,0 +1,10 @@
+<map id="PlanetEntity::PlanetEntity" name="PlanetEntity::PlanetEntity">
+<area shape="rect" id="node1" title="Constructor of class PlanetEntity." alt="" coords="5,78,177,105"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a9453a236bea6b1e7855f7a4797e2db8b" title=" " alt="" coords="225,53,411,79"/>
+<area shape="rect" id="node3" href="$classCartesianCoordAdapter.html#a5af89c405412b8e6a362c272cd7e660a" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="459,71,615,112"/>
+<area shape="rect" id="node7" href="$classCartesianCoordAdapter.html#a20cd132d365084072e5a22a1a56fd797" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="459,5,615,47"/>
+<area shape="rect" id="node8" href="$classCartesianCoordAdapter.html#a9812b84e1c0f5cbf17250396996ea0e5" title="Calculates the cartesian representation of a point in a 3&#45;dimensional system." alt="" coords="459,136,615,177"/>
+<area shape="rect" id="node4" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="663,17,823,43"/>
+<area shape="rect" id="node5" href="$classCoordinates.html#a4768e1c7134092f6633946c49cfabc2a" title="Returns the radius." alt="" coords="673,125,813,151"/>
+<area shape="rect" id="node6" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="663,74,823,101"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CloneAdmin::Instance" name="CloneAdmin::Instance">
+<area shape="rect" id="node1" title="Returns the single instance of CloneAdmin. Instantiates a HumanBreeder and a Woman and Man as &quot;clone ..." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node2" href="$classCloneAdmin.html#a5c5e5fc62239329a8a67b9babeac182b" title="Creates new CloneAdmin. Use Instance() to get instance of CloneAdmin." alt="" coords="203,5,373,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LFJobHandler::deleteJobQueue" name="LFJobHandler::deleteJobQueue">
+<area shape="rect" id="node1" title="Deletes job queue for a specific life form." alt="" coords="5,35,208,61"/>
+<area shape="rect" id="node2" href="$classLFJobHandler.html#a4aeadc950c839b111ae4d2f3abf35db3" title="Deletes all jobs of a job queue." alt="" coords="256,5,451,32"/>
+<area shape="rect" id="node4" href="$classLFJobHandler.html#aa73631008274babfcba6859a8310d251" title="Removes all jobs that contain pRef from targetLFs job queue." alt="" coords="265,57,442,98"/>
+<area shape="rect" id="node3" href="$classLFJobHandler.html#aac81159ba489c152c19e1e201a784f55" title="Deletes top priority job from a job queue." alt="" coords="499,5,689,32"/>
+<area shape="rect" id="node5" href="$classLFJob.html#ae3cc9298f866c4a2a6da5c444d77df83" title=" " alt="" coords="518,64,670,91"/>
+</map>

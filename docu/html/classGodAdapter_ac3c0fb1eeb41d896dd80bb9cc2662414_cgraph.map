@@ -1,0 +1,7 @@
+<map id="GodAdapter::createMidDevLFE" name="GodAdapter::createMidDevLFE">
+<area shape="rect" id="node1" title="Returns &quot;artificial&quot; mid developed life form with random name." alt="" coords="5,60,207,87"/>
+<area shape="rect" id="node2" href="$classDestinyAdapter.html#ae95a42b5500d905f3c43def2d8c23dac" title="Returns a randomly generated 4 letter long name." alt="" coords="255,23,424,65"/>
+<area shape="rect" id="node5" href="$classGodAdapter.html#a9b3753afca9f56f13a84550b1f470325" title="Returns name of the god." alt="" coords="264,89,415,116"/>
+<area shape="rect" id="node3" href="$destinyAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="472,5,515,32"/>
+<area shape="rect" id="node4" href="$destinyAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="474,56,513,83"/>
+</map>

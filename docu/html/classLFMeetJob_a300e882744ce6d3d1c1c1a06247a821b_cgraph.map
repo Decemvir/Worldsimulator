@@ -1,0 +1,17 @@
+<map id="LFMeetJob::workOnJob" name="LFMeetJob::workOnJob">
+<area shape="rect" id="node1" title="Works on the job." alt="" coords="5,169,164,196"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#aa4ccd6f649f22d44b82f9fb614180a7c" title="Adds lf to the list of known life forms." alt="" coords="214,93,413,120"/>
+<area shape="rect" id="node8" href="$classLFMoveJob.html#a94bea8607c0ecb4be95b9e46f7541409" title="Sets destination." alt="" coords="212,144,415,171"/>
+<area shape="rect" id="node9" href="$classLifeFormEntity.html#a2d7910d60e2618fd8dc8b711558da0ed" title="Returns position relative to the planet the life form lives on." alt="" coords="213,195,413,221"/>
+<area shape="rect" id="node10" href="$classLFMoveJob.html#a9d7b190ea191efac137c36e7015e25ef" title="Works on the job." alt="" coords="234,245,393,272"/>
+<area shape="rect" id="node3" href="$classLifeForm.html#a934b40ca0a80f965511376c66207a6fd" title="A life form is added to the list of friends, the calling object has." alt="" coords="498,5,646,32"/>
+<area shape="rect" id="node4" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="489,56,655,83"/>
+<area shape="rect" id="node5" href="$classLifeFormEntity.html#a547c68aec28459b31a32a4f6ec1139a6" title="Checks if lf is on the same planet as this." alt="" coords="485,107,659,149"/>
+<area shape="rect" id="node7" href="$classLifeFormEntity.html#a189e25f274847a528aa23e6f6a9e2446" title="Checks if lf is known by this." alt="" coords="497,173,647,200"/>
+<area shape="rect" id="node6" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="729,107,932,149"/>
+<area shape="rect" id="node11" href="$classLifeFormEntity.html#adb3a42484ee3c3cdb1ca1efcc57fef96" title=" " alt="" coords="463,245,681,272"/>
+<area shape="rect" id="node12" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="751,184,911,211"/>
+<area shape="rect" id="node13" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="751,235,911,261"/>
+<area shape="rect" id="node14" href="$classCoordinates.html#a7deea25d6ffeea2d0cb8bd67192cdf58" title="Sets the horizontal angle." alt="" coords="751,285,911,312"/>
+<area shape="rect" id="node15" href="$classCoordinates.html#a1b7801f2b0265ed0ea89088beae3c6cb" title="Sets the vertical angle." alt="" coords="751,336,911,363"/>
+</map>

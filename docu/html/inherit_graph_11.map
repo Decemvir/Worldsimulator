@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classObserver.html" title="Member of pattern Observer as Observer. Observes a Subject. Can be attached to it...." alt="" coords="5,31,79,57"/>
+<area shape="rect" id="node2" href="$classHumanHerold.html" title="Member of pattern Observer as Observer. Abstract Observer for HumanLifeChain." alt="" coords="127,31,227,57"/>
+<area shape="rect" id="node3" href="$classHumanDeathHerold.html" title="Member of pattern Observer as ConcreteObserver. Prints to the console that a Human died." alt="" coords="275,5,409,32"/>
+<area shape="rect" id="node4" href="$classHumanLifeHerold.html" title="Member of pattern Observer as ConcreteObserver. Prints a newborn Human to the console." alt="" coords="282,56,402,83"/>
+</map>

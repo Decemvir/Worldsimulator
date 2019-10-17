@@ -1,0 +1,5 @@
+<map id="GodAdapter::~GodAdapter" name="GodAdapter::~GodAdapter">
+<area shape="rect" id="node1" title="Deconstructor of class GodAdapter." alt="" coords="5,29,181,56"/>
+<area shape="rect" id="node2" href="$classUniverseEntity.html#ae6a61897bb05a36a64c0668eeefd7296" title="Destroy all entities held by the universe." alt="" coords="229,29,385,56"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#a03009d059d7d844cf9d5e66a09bd70b4" title="Destroys all child instances currently held by the view." alt="" coords="433,29,592,56"/>
+</map>

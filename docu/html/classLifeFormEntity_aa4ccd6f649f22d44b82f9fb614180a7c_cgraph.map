@@ -1,0 +1,8 @@
+<map id="LifeFormEntity::addKnownLFE" name="LifeFormEntity::addKnownLFE">
+<area shape="rect" id="node1" title="Adds lf to the list of known life forms." alt="" coords="5,85,204,112"/>
+<area shape="rect" id="node2" href="$classLifeForm.html#a934b40ca0a80f965511376c66207a6fd" title="A life form is added to the list of friends, the calling object has." alt="" coords="265,5,413,32"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="256,56,423,83"/>
+<area shape="rect" id="node4" href="$classLifeFormEntity.html#a547c68aec28459b31a32a4f6ec1139a6" title="Checks if lf is on the same planet as this." alt="" coords="252,107,427,149"/>
+<area shape="rect" id="node6" href="$classLifeFormEntity.html#a189e25f274847a528aa23e6f6a9e2446" title="Checks if lf is known by this." alt="" coords="264,173,415,200"/>
+<area shape="rect" id="node5" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="475,107,677,149"/>
+</map>

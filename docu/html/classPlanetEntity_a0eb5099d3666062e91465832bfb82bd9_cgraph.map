@@ -1,0 +1,6 @@
+<map id="PlanetEntity::calcNextStep" name="PlanetEntity::calcNextStep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,184,61"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a3f91b109df77a8cd2c83f42ec46ec3b7" title="Calculates the next step for every child." alt="" coords="232,5,425,32"/>
+<area shape="rect" id="node4" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="248,57,409,98"/>
+<area shape="rect" id="node3" href="$classEntity.html#a3743e1b4ca7fa3a4e2a145a6d1bf76fc" title=" " alt="" coords="473,5,616,32"/>
+</map>

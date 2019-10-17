@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classDeus__Ex__Factory.html" title="Member of pattern Factory as Creator. This class can create an instance of a god. This factory has al..." alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$classAlah__Ex__Factory.html" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class Alah...." alt="" coords="211,5,334,32"/>
+<area shape="rect" id="node3" href="$classJesus__Ex__Factory.html" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class Jesus...." alt="" coords="207,56,338,83"/>
+<area shape="rect" id="node4" href="$classVeryHighDevLF__Ex__Factory.html" title="Member of pattern Factory as ConcreteCreator. This class can create an instance of class VeryHighDev_..." alt="" coords="180,107,365,133"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="veryHighDevLF.h" name="veryHighDevLF.h">
+<area shape="rect" id="node1" title="Contains the declaration of class VeryHighDef_LF." alt="" coords="759,5,877,32"/>
+<area shape="rect" id="node2" href="$veryHighDevLFExFactory_8h.html" title="Contains the declaration of class VeryHighDefLF_Ex_Factory." alt="" coords="639,80,818,107"/>
+<area shape="rect" id="node13" href="$veryHighDevLF_8cpp.html" title="Contains the implementation of class VeryHighDef_LF." alt="" coords="843,80,975,107"/>
+<area shape="rect" id="node3" href="$simwidgetdatamodel_8h.html" title="Contains the declaration of class SimWidgetDatamodel." alt="" coords="556,155,707,181"/>
+<area shape="rect" id="node12" href="$veryHighDevLFExFactory_8cpp.html" title="Contains the implementation of class VeryHighDevLF_Ex_Factory." alt="" coords="731,155,923,181"/>
+<area shape="rect" id="node4" href="$simulationwidget_8h.html" title="Contains the declaration of class SimulationWidget." alt="" coords="405,229,535,256"/>
+<area shape="rect" id="node9" href="$simwidgetcontroller_8cpp.html" title="Contains the implementation of class SimWidgetController." alt="" coords="527,304,685,331"/>
+<area shape="rect" id="node10" href="$simwidgetdatamodel_8cpp.html" title="Contains the implementation of class SimWidgetDatamodel." alt="" coords="710,304,875,331"/>
+<area shape="rect" id="node11" href="$moc__simwidgetdatamodel_8cpp.html" title=" " alt="" coords="694,229,891,256"/>
+<area shape="rect" id="node5" href="$moc__simulationwidget_8cpp.html" title=" " alt="" coords="5,304,180,331"/>
+<area shape="rect" id="node6" href="$simulationwidget_8cpp.html" title="Contains the implementation of class SimulationWidget." alt="" coords="204,304,347,331"/>
+<area shape="rect" id="node7" href="$ui__mindworldsgui_8h.html" title=" " alt="" coords="371,304,503,331"/>
+<area shape="rect" id="node8" href="$mindworldsgui_8cpp.html" title=" " alt="" coords="372,379,501,405"/>
+</map>

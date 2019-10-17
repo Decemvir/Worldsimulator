@@ -1,0 +1,5 @@
+<map id="LifeFormEntity::isParentOf" name="LifeFormEntity::isParentOf">
+<area shape="rect" id="node1" title="Checks if lf is parent of this." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a4f6a17da426492a9bd088c8ad8b5e24a" title="Returns adress of the life forms father." alt="" coords="229,5,399,32"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html#a0533ad3cb10848bb7409dc66d0ca7472" title="Returns address of the life forms mother." alt="" coords="228,56,400,83"/>
+</map>

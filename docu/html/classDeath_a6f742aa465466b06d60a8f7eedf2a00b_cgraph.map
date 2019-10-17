@@ -1,0 +1,4 @@
+<map id="Death::Instance" name="Death::Instance">
+<area shape="rect" id="node1" title="Returns the single Instance of Death." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$classDeath.html#acea9ca06624068adb8c4ae66a7ba3eb5" title="Constructor of Death. Use Instance() to get instance of Death." alt="" coords="167,5,265,32"/>
+</map>

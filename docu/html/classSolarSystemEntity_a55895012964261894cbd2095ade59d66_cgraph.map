@@ -1,0 +1,9 @@
+<map id="SolarSystemEntity::add" name="SolarSystemEntity::add">
+<area shape="rect" id="node1" title="Adds planet to the solar system." alt="" coords="5,93,165,120"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a72c5a154fb676f628fe54885983cf40d" title="Adds entity to the list of children." alt="" coords="238,5,374,32"/>
+<area shape="rect" id="node4" href="$classSolarSystemEntity.html#a8a647de8595e51749071bf380d848890" title="Check if solar system contains specific entity." alt="" coords="237,57,375,98"/>
+<area shape="rect" id="node5" href="$classPlanetEntity.html#a5d194a267a01b6d363e41a9284f25b94" title="Returns center of the orbit." alt="" coords="213,123,399,149"/>
+<area shape="rect" id="node6" href="$classPlanetEntity.html#ad9a5b8ea4132729f88dbad693c42d50e" title="Sets new center for the orbit of the planet." alt="" coords="213,173,399,200"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="447,35,611,61"/>
+<area shape="rect" id="node7" href="$classPlanetEntity.html#a48a8d8591b1bbb0f1926815ad080debd" title="Returns absolut position of the planet." alt="" coords="448,166,609,207"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DestinyAdapter" name="DestinyAdapter">
+<area shape="rect" id="node1" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Client...." alt="" coords="5,219,252,560"/>
+<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="15,49,85,127"/>
+<area shape="rect" id="node3" href="$classDestiny.html" title="Member of pattern Adapter as Adaptee. Member of pattern Singleton. Member of pattern ChainOfresponsib..." alt="" coords="110,5,305,171"/>
+</map>

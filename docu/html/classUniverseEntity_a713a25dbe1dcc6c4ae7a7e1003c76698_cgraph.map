@@ -1,0 +1,5 @@
+<map id="UniverseEntity::getTime" name="UniverseEntity::getTime">
+<area shape="rect" id="node1" title="Returns time of universe." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$classUniverse.html#a6b95c394b56d36638de7e7700c6cf78b" title="Returns the time of the universe." alt="" coords="223,5,348,32"/>
+<area shape="rect" id="node3" href="$classUniverse.html#ac0c2819888712e6bd5b17d64ee3a32bf" title="Gets the instance of the universe. ." alt="" coords="212,56,359,83"/>
+</map>

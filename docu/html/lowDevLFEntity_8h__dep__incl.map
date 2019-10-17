@@ -1,0 +1,25 @@
+<map id="lowDevLFEntity.h" name="lowDevLFEntity.h">
+<area shape="rect" id="node1" title="Contains the declaration of class LowDev_LFEntity." alt="" coords="1018,5,1141,32"/>
+<area shape="rect" id="node2" href="$godAdapter_8h.html" title="Contains the declaration of class GodAdapter." alt="" coords="582,229,681,256"/>
+<area shape="rect" id="node14" href="$midDevLFEntity_8h.html" title="Contains the declaration of class MidDev_LFEntity." alt="" coords="849,80,973,107"/>
+<area shape="rect" id="node17" href="$destinyAdapter_8cpp.html" title="Contains the implementation of class DestinyAdapter." alt="" coords="423,229,557,256"/>
+<area shape="rect" id="node19" href="$lfJobs_8cpp.html" title="Contains the implementations of classes LFJob, LFMoveJob, LFMeetJob, LFAskJob, LFAnswerJob,..." alt="" coords="1157,229,1237,256"/>
+<area shape="rect" id="node22" href="$moc__lowDevLFEntity_8cpp.html" title=" " alt="" coords="1285,80,1453,107"/>
+<area shape="rect" id="node23" href="$lowDevLFEntity_8cpp.html" title="Contains the implementation of class LowDev_LFEntity." alt="" coords="1477,80,1613,107"/>
+<area shape="rect" id="node3" href="$moc__godAdapter_8cpp.html" title=" " alt="" coords="387,304,532,331"/>
+<area shape="rect" id="node4" href="$simwidgetdatamodel_8h.html" title="Contains the declaration of class SimWidgetDatamodel." alt="" coords="556,304,707,331"/>
+<area shape="rect" id="node13" href="$godAdapter_8cpp.html" title="Contains the implementation of class GodAdapter." alt="" coords="731,304,844,331"/>
+<area shape="rect" id="node5" href="$simulationwidget_8h.html" title="Contains the declaration of class SimulationWidget." alt="" coords="395,379,524,405"/>
+<area shape="rect" id="node10" href="$simwidgetcontroller_8cpp.html" title="Contains the implementation of class SimWidgetController." alt="" coords="527,453,685,480"/>
+<area shape="rect" id="node11" href="$simwidgetdatamodel_8cpp.html" title="Contains the implementation of class SimWidgetDatamodel." alt="" coords="710,453,875,480"/>
+<area shape="rect" id="node12" href="$moc__simwidgetdatamodel_8cpp.html" title=" " alt="" coords="694,379,891,405"/>
+<area shape="rect" id="node6" href="$moc__simulationwidget_8cpp.html" title=" " alt="" coords="328,453,503,480"/>
+<area shape="rect" id="node7" href="$simulationwidget_8cpp.html" title="Contains the implementation of class SimulationWidget." alt="" coords="5,453,148,480"/>
+<area shape="rect" id="node8" href="$ui__mindworldsgui_8h.html" title=" " alt="" coords="172,453,304,480"/>
+<area shape="rect" id="node9" href="$mindworldsgui_8cpp.html" title=" " alt="" coords="173,528,303,555"/>
+<area shape="rect" id="node15" href="$highDevLFEntity_8h.html" title="Contains the declaration of class HighDev_LFEntity." alt="" coords="675,155,801,181"/>
+<area shape="rect" id="node20" href="$moc__midDevLFEntity_8cpp.html" title=" " alt="" coords="826,155,997,181"/>
+<area shape="rect" id="node21" href="$midDevLFEntity_8cpp.html" title="Contains the implementation of class MidDev_LFEntity." alt="" coords="1021,155,1159,181"/>
+<area shape="rect" id="node16" href="$moc__highDevLFEntity_8cpp.html" title=" " alt="" coords="705,229,878,256"/>
+<area shape="rect" id="node18" href="$highDevLFEntity_8cpp.html" title="Contains the implementation of class HighDev_LFEntity." alt="" coords="902,229,1043,256"/>
+</map>

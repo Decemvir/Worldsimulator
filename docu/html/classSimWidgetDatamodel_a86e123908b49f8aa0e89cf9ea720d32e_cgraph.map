@@ -1,0 +1,5 @@
+<map id="SimWidgetDatamodel::init" name="SimWidgetDatamodel::init">
+<area shape="rect" id="node1" title="Initialise the whole universe." alt="" coords="5,5,153,47"/>
+<area shape="rect" id="node2" href="$classUniverseEntity.html#ac3e1383faf2b33dc2d894ff8056c4426" title="Initialises the universe (method runs in current OpenGL context)" alt="" coords="201,13,332,39"/>
+<area shape="rect" id="node3" href="$classViewOfEntities.html#af9cafe321d4100d31f9f3669a20329df" title="Initialises all children (method runs in current OpenGL context)" alt="" coords="380,13,512,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HumanLifeChainIterator::firstHuman" name="HumanLifeChainIterator::firstHuman">
+<area shape="rect" id="node1" title="Returns the first stored Human and sets pointer to next elemet of list." alt="" coords="5,27,161,69"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html#af6311e374e739149355060534bf0e703" title="Returns the first element of list. It contains the oldest Human." alt="" coords="209,5,403,32"/>
+<area shape="rect" id="node3" href="$classHumanLifeChainIterator.html#a17974e3e8e6981258625b51ca821c92d" title="Returns stored Human of current element and sets current element to." alt="" coords="228,57,384,98"/>
+<area shape="rect" id="node4" href="$classHumanLifeChainElement.html#ac4d94bcc6397865722903a9fdb328a72" title="Returns the Human given to the Constructor." alt="" coords="451,23,615,65"/>
+<area shape="rect" id="node5" href="$classHumanLifeChainElement.html#a750ebfb76fe2f06c39afddd7d799dd41" title="Returns the next element of the chain." alt="" coords="451,89,615,130"/>
+</map>

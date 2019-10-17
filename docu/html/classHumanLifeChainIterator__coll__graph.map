@@ -1,0 +1,16 @@
+<map id="HumanLifeChainIterator" name="HumanLifeChainIterator">
+<area shape="rect" id="node1" title="Member of pattern Iterator as ConcreteIterator. Iterator for HumanLifeChain." alt="" coords="129,1456,305,1577"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html" title="Member of pattern Singleton. &#160;Member of pattern Observer as ConcreteSubject. &#160;Member of pattern Itera..." alt="" coords="8,1243,143,1393"/>
+<area shape="rect" id="node3" href="$classSubject.html" title="Member of pattern Observer as Subject. Can be observed. Observers can be attached and detached...." alt="" coords="9,1044,141,1151"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,860,145,937"/>
+<area shape="rect" id="node5" href="$classHumanLifeChainElement.html" title="Member of pattern Singleton. &#160;Member of pattern Iterator. Element of the HumanLifeChain...." alt="" coords="179,1029,363,1165"/>
+<area shape="rect" id="node6" href="$classHuman.html" title="Member of pattern Prototype as Prototype. Subclasses can be clonable ConcretePrototypes...." alt="" coords="215,831,328,967"/>
+<area shape="rect" id="node7" title=" " alt="" coords="99,639,153,717"/>
+<area shape="rect" id="node8" title=" " alt="" coords="273,5,312,83"/>
+<area shape="rect" id="node11" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="309,145,460,267"/>
+<area shape="rect" id="node9" href="$classOwnMW.html" title="Member of pattern Composite as Composite. Is the one MindWorld, each Human has one...." alt="" coords="357,603,473,753"/>
+<area shape="rect" id="node10" href="$classMindWorld.html" title="Member of pattern Composite as Composite. &#160;Member of pattern ChainOfresponsibility as Client and as C..." alt="" coords="497,329,625,553"/>
+<area shape="rect" id="node12" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="389,5,476,83"/>
+<area shape="rect" id="node13" title=" " alt="" coords="484,167,701,245"/>
+<area shape="rect" id="node14" title=" " alt="" coords="726,167,782,245"/>
+</map>

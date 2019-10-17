@@ -1,0 +1,4 @@
+<map id="LifeFormEntity::receiveAnswer" name="LifeFormEntity::receiveAnswer">
+<area shape="rect" id="node1" title="Outputs console message if the life form receives an answer from lf." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="251,5,417,32"/>
+</map>

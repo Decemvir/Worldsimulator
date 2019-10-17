@@ -1,0 +1,52 @@
+<map id="GodAdapter::challengeLFEs" name="GodAdapter::challengeLFEs">
+<area shape="rect" id="node1" title="Challenges random life forms with a random task (gets called in a random amount of time)" alt="" coords="5,1113,191,1140"/>
+<area shape="rect" id="node2" href="$classDestinyAdapter.html#a52933e907f0da4f68368975c86f80cdf" title="Returns an instance to an uniformly randomly chosen life form from the pool of life forms." alt="" coords="239,857,472,884"/>
+<area shape="rect" id="node5" href="$classDestinyAdapter.html#a9f656ffba825cae528006ddd67c06356" title="Creates a problem for a specific life form." alt="" coords="254,909,457,950"/>
+<area shape="rect" id="node10" href="$classDestinyAdapter.html#a0a2b7248e0451250727d802a0fe41aaa" title="Specific life form devolves by getting replaced with his lower developed form." alt="" coords="263,620,447,647"/>
+<area shape="rect" id="node13" href="$classLifeFormEntity.html#a34e6cc83cff294a6053621571fb2ae81" title="Returns name of life form." alt="" coords="786,967,953,993"/>
+<area shape="rect" id="node37" href="$godAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="334,1143,377,1169"/>
+<area shape="rect" id="node38" href="$classDestinyAdapter.html#a3d69d1a69a0a9022232f38ea67724dd3" title="Specific life form evolves by getting replaced with his higher developed form." alt="" coords="267,721,444,748"/>
+<area shape="rect" id="node39" href="$classDestinyAdapter.html#ab3964c3994dcb1b426df28bee195452e" title="Returns number of life forms that are actually active and initialised." alt="" coords="264,1194,447,1235"/>
+<area shape="rect" id="node40" href="$classDestinyAdapter.html#a953490977d427eff8cbb0d69e5a30633" title="Returns number of life forms that died." alt="" coords="264,1259,447,1301"/>
+<area shape="rect" id="node41" href="$classDestinyAdapter.html#aeaf5756946281e2bb0bcc99965cc078c" title="Returns number of life forms that are queued up to be created." alt="" coords="264,1325,447,1366"/>
+<area shape="rect" id="node43" href="$classUniverseEntity.html#acb596bc864ab2b560754033676018c81" title="Returns time in ticks." alt="" coords="271,1390,440,1431"/>
+<area shape="rect" id="node44" href="$classDestinyAdapter.html#a060ad1e22bd87d7ddabaa344c268aeee" title="Specific life form gets killed." alt="" coords="276,1456,435,1483"/>
+<area shape="rect" id="node45" href="$classDestinyAdapter.html#afab1564eb39ac673e365e27cbfd779ec" title="Specific life form gets killed." alt="" coords="258,1025,453,1052"/>
+<area shape="rect" id="node48" href="$godAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="336,1507,375,1533"/>
+<area shape="rect" id="node49" href="$classDestinyAdapter.html#ae2994461ad33a5f5f06f106859e87e57" title="The life form lf will meet otherLF and on arrival they add each other to there list of known life for..." alt="" coords="267,1077,444,1118"/>
+<area shape="rect" id="node3" href="$destinyAdapter_8cpp.html#a658f306f04d18c2607f5fecb03731b0d" title=" " alt="" coords="599,721,641,748"/>
+<area shape="rect" id="node4" href="$destinyAdapter_8cpp.html#a8be2fe85bea2d54bee516a1849f1c219" title=" " alt="" coords="601,873,639,900"/>
+<area shape="rect" id="node6" href="$classLifeFormEntity.html#ae86b3df5cb081b057b8c319d14ea6ac2" title="Adds AnswerJob to the job queue of the life form." alt="" coords="525,924,715,951"/>
+<area shape="rect" id="node7" href="$classLFJobHandler.html#ad63bc49f12a8191acc7d86a68b7c2b06" title="Adds job to job queue of an specific life form." alt="" coords="794,1017,945,1044"/>
+<area shape="rect" id="node9" href="$classLifeForm.html#a6fe8453677cc2b2dbb98f46483236809" title="Solves a given problem.." alt="" coords="791,916,948,943"/>
+<area shape="rect" id="node8" href="$classLFJob.html#adf4db5d4feea21776090d22fa5402686" title="Returns working life form." alt="" coords="1049,887,1195,913"/>
+<area shape="rect" id="node11" href="$classLifeFormEntity.html#ad1c547a9c0cb911240226ef55e489d98" title="Returns development level of the life form." alt="" coords="536,620,704,647"/>
+<area shape="rect" id="node12" href="$classLifeFormEntity.html#a9ffdb258583cc54710a7d74815ab78dd" title="Returns address of the life forms home planet." alt="" coords="1021,727,1223,769"/>
+<area shape="rect" id="node14" href="$classLifeFormEntity.html#a2d7910d60e2618fd8dc8b711558da0ed" title="Returns position relative to the planet the life form lives on." alt="" coords="520,671,720,697"/>
+<area shape="rect" id="node15" href="$classLifeFormEntity.html#a396d324e0267ea6cfd76d145147f526a" title="Sets home planet and let&#39;s the life form begin it&#39;s life." alt="" coords="525,468,715,495"/>
+<area shape="rect" id="node30" href="$classLFJobHandler.html#a273adbf9c11d7f46d55469374adab539" title="Replaces all occurences of oldLFRef with newLFRef." alt="" coords="537,224,703,251"/>
+<area shape="rect" id="node16" href="$classPlanetEntity.html#a49fdff17801cdc35bfd2595fe84f7fd7" title="Adds inhabitant to the planet." alt="" coords="780,341,959,368"/>
+<area shape="rect" id="node22" href="$classDestinyAdapter.html#a830305506fc971a51f1ed817391fa393" title="Adds lf to the pool of life form instances." alt="" coords="787,443,951,469"/>
+<area shape="rect" id="node23" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="789,493,949,520"/>
+<area shape="rect" id="node24" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="789,544,949,571"/>
+<area shape="rect" id="node25" href="$classLifeFormEntity.html#ad4df997da81bccc0efce513efc8f053e" title=" " alt="" coords="779,275,959,317"/>
+<area shape="rect" id="node28" href="$classCoordinates.html#a7deea25d6ffeea2d0cb8bd67192cdf58" title="Sets the horizontal angle." alt="" coords="789,595,949,621"/>
+<area shape="rect" id="node29" href="$classCoordinates.html#a1b7801f2b0265ed0ea89088beae3c6cb" title="Sets the vertical angle." alt="" coords="789,645,949,672"/>
+<area shape="rect" id="node17" href="$classViewOfEntities.html#a72c5a154fb676f628fe54885983cf40d" title="Adds entity to the list of children." alt="" coords="1054,384,1190,411"/>
+<area shape="rect" id="node19" href="$classPlanet.html#a387f8f6af3460e51d9d99aa82aef42cf" title="Adds a lifeform to the planet." alt="" coords="1071,435,1173,461"/>
+<area shape="rect" id="node21" href="$classPlanetEntity.html#ab7b48ae3af0c08b9f3857b5060b9ce5e" title="Checks if planet has inhabitant lf." alt="" coords="1019,333,1225,360"/>
+<area shape="rect" id="node18" href="$classViewOfEntities.html#a948b19ae590118dbd32b970adcd1cdbc" title="Returns true if entity is part of this view or part of any subview contained by this view." alt="" coords="1276,384,1440,411"/>
+<area shape="rect" id="node20" href="$classLifeForm.html#a43e5ce351679f09fb360fdfd0dc6eb4d" title="Returns the home planet of the lifeform." alt="" coords="1273,435,1443,461"/>
+<area shape="rect" id="node26" href="$classPlanetEntity.html#aea59d00d6c0a779d89852f00d2a90b1e" title="Returns planet radius." alt="" coords="1024,283,1220,309"/>
+<area shape="rect" id="node27" href="$classCoordinates.html#a61950ca41f3231d2cbdec5e82a0a2c38" title="Sets the radius." alt="" coords="1052,232,1192,259"/>
+<area shape="rect" id="node31" href="$classLFJob.html#ac9eacd2c08bc0bf399304ebf4c03b194" title=" " alt="" coords="781,224,957,251"/>
+<area shape="rect" id="node32" href="$classLFJob.html#a196a0391d41a1fc0192cd86fec6e7ca0" title="Sets working life form." alt="" coords="784,173,955,200"/>
+<area shape="rect" id="node33" href="$classLFJobHandler.html#a293a34ae3f2229ee481b8d38b2effb70" title="Deletes job queue for a specific life form." alt="" coords="768,64,971,91"/>
+<area shape="rect" id="node36" href="$classLFJob.html#ae3cc9298f866c4a2a6da5c444d77df83" title=" " alt="" coords="1282,93,1434,120"/>
+<area shape="rect" id="node34" href="$classLFJobHandler.html#a4aeadc950c839b111ae4d2f3abf35db3" title="Deletes all jobs of a job queue." alt="" coords="1025,5,1219,32"/>
+<area shape="rect" id="node35" href="$classLFJobHandler.html#aa73631008274babfcba6859a8310d251" title="Removes all jobs that contain pRef from targetLFs job queue." alt="" coords="1033,57,1211,98"/>
+<area shape="rect" id="node42" href="$classLFMateJob.html#a903c1eba540eacf363b74db91a9fa7dc" title="Returns number of mate jobs." alt="" coords="523,1332,717,1359"/>
+<area shape="rect" id="node46" href="$classLifeFormEntity.html#a1bb2365dccbb4b5c07b0f7df8157767e" title="Adds MateJob to the job queue of the life form." alt="" coords="535,1025,705,1052"/>
+<area shape="rect" id="node47" href="$classLifeFormEntity.html#a547c68aec28459b31a32a4f6ec1139a6" title="Checks if lf is on the same planet as this." alt="" coords="782,1069,957,1110"/>
+<area shape="rect" id="node50" href="$classLifeFormEntity.html#a8c5c9e1f079ea9b602d430a207306714" title="Adds MeetJob to the job queue of the life form." alt="" coords="535,1076,705,1103"/>
+</map>

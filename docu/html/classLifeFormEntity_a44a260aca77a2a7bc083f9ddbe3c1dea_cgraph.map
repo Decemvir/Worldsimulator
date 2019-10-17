@@ -1,0 +1,4 @@
+<map id="LifeFormEntity::isVisible" name="LifeFormEntity::isVisible">
+<area shape="rect" id="node1" title="Returns the visibility of the life form." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$classEntity.html#a098d827982916bd7b3d13f6858c520d7" title="Returns the visibility." alt="" coords="216,5,329,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="HumanHandler::cloneHuman" name="HumanHandler::cloneHuman">
+<area shape="rect" id="node1" title="Clones Human. See also CloneAdmin." alt="" coords="5,121,192,148"/>
+<area shape="rect" id="node2" href="$classCloneAdmin.html#a30ed84fbc022305fcea94cc78b385f8c" title="Let the HumanBreeder clone the given &quot;clone prototype&quot;." alt="" coords="240,96,409,123"/>
+<area shape="rect" id="node10" href="$classCloneAdmin.html#a818db43c19e87a5c41a7f955e51d6430" title="Returns the single instance of CloneAdmin. Instantiates a HumanBreeder and a Woman and Man as &quot;clone ..." alt="" coords="250,147,399,173"/>
+<area shape="rect" id="node3" href="$classHumanBreeder.html#a3ced54e9e82474c09de3666e8e8a90a6" title="Returns clone of the Human set by setPrototype(Human *human).Adds the cloned Human to the HumanLifeCh..." alt="" coords="457,96,643,123"/>
+<area shape="rect" id="node4" href="$classHumanLifeChain.html#a9b683c13dfbd631cf605c6a5732eda00" title="Adds an Human to the list. It will be put on end of list. Creates an HumanLifeChainElement to store t..." alt="" coords="691,45,888,72"/>
+<area shape="rect" id="node7" href="$classHuman.html#a7e9608b827019b0cf3c6877e8367ba0d" title=" " alt="" coords="738,96,841,123"/>
+<area shape="rect" id="node8" href="$classHumanLifeChain.html#a17fe80e10f8354b97c5177bfc24ab9ff" title="Create and returns the single instance of HumanLifeChain (Pattern Singleton)" alt="" coords="703,147,876,173"/>
+<area shape="rect" id="node5" href="$classSubject.html#a130edb815aef88deebc1542a32fa9af9" title="Should be called when the Subject changes. Calls update() of all attached Observers." alt="" coords="947,5,1110,32"/>
+<area shape="rect" id="node6" href="$classHumanLifeChainElement.html#a314f51bc8c035586e4e52461d3553d4e" title="Sets the next element of the chain." alt="" coords="947,57,1111,98"/>
+<area shape="rect" id="node9" href="$classHumanLifeChain.html#ae7504faac7d0a75d831c228fc37e0445" title="Constructor of class HumanLifeChain." alt="" coords="936,139,1121,181"/>
+<area shape="rect" id="node11" href="$classCloneAdmin.html#a5c5e5fc62239329a8a67b9babeac182b" title="Creates new CloneAdmin. Use Instance() to get instance of CloneAdmin." alt="" coords="465,147,635,173"/>
+</map>

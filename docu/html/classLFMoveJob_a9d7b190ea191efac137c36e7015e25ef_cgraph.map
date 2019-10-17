@@ -1,0 +1,8 @@
+<map id="LFMoveJob::workOnJob" name="LFMoveJob::workOnJob">
+<area shape="rect" id="node1" title="Works on the job." alt="" coords="5,81,164,108"/>
+<area shape="rect" id="node2" href="$classLifeFormEntity.html#adb3a42484ee3c3cdb1ca1efcc57fef96" title=" " alt="" coords="212,81,431,108"/>
+<area shape="rect" id="node3" href="$classCoordinates.html#a58bc25719f00902b9dad1ece288e04ed" title="Returns the horizontal angle." alt="" coords="479,5,639,32"/>
+<area shape="rect" id="node4" href="$classCoordinates.html#ab2ba449612a30763cfcfab7742970cc0" title="Returns the vertical angle." alt="" coords="479,56,639,83"/>
+<area shape="rect" id="node5" href="$classCoordinates.html#a7deea25d6ffeea2d0cb8bd67192cdf58" title="Sets the horizontal angle." alt="" coords="479,107,639,133"/>
+<area shape="rect" id="node6" href="$classCoordinates.html#a1b7801f2b0265ed0ea89088beae3c6cb" title="Sets the vertical angle." alt="" coords="479,157,639,184"/>
+</map>

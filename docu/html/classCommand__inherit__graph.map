@@ -1,0 +1,4 @@
+<map id="Command" name="Command">
+<area shape="rect" id="node1" title="Member of pattern Command as Command. Defines basic functionality for ChangeCommands." alt="" coords="33,5,123,97"/>
+<area shape="rect" id="node2" href="$classChangeCommand.html" title="Member of pattern Command as a ConcreteCommand. A Command to change an Thought in a Humans MindWorld...." alt="" coords="5,145,151,296"/>
+</map>

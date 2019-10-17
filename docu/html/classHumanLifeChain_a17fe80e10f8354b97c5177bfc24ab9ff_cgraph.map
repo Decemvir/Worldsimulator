@@ -1,0 +1,4 @@
+<map id="HumanLifeChain::Instance" name="HumanLifeChain::Instance">
+<area shape="rect" id="node1" title="Create and returns the single instance of HumanLifeChain (Pattern Singleton)" alt="" coords="5,13,179,39"/>
+<area shape="rect" id="node2" href="$classHumanLifeChain.html#ae7504faac7d0a75d831c228fc37e0445" title="Constructor of class HumanLifeChain." alt="" coords="227,5,412,47"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="HumanLifeHerold" name="HumanLifeHerold">
+<area shape="rect" id="node1" title="Member of pattern Observer as ConcreteObserver. Prints a newborn Human to the console." alt="" coords="365,1597,505,1704"/>
+<area shape="rect" id="node2" href="$classHumanHerold.html" title="Member of pattern Observer as Observer. Abstract Observer for HumanLifeChain." alt="" coords="190,1456,326,1548"/>
+<area shape="rect" id="node3" href="$classObserver.html" title="Member of pattern Observer as Observer. Observes a Subject. Can be attached to it...." alt="" coords="85,1279,167,1357"/>
+<area shape="rect" id="node4" href="$classHumanLifeChain.html" title="Member of pattern Singleton. &#160;Member of pattern Observer as ConcreteSubject. &#160;Member of pattern Itera..." alt="" coords="191,1243,325,1393"/>
+<area shape="rect" id="node5" href="$classSubject.html" title="Member of pattern Observer as Subject. Can be observed. Observers can be attached and detached...." alt="" coords="9,1044,141,1151"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,860,145,937"/>
+<area shape="rect" id="node7" href="$classHumanLifeChainElement.html" title="Member of pattern Singleton. &#160;Member of pattern Iterator. Element of the HumanLifeChain...." alt="" coords="166,1029,350,1165"/>
+<area shape="rect" id="node8" href="$classHuman.html" title="Member of pattern Prototype as Prototype. Subclasses can be clonable ConcretePrototypes...." alt="" coords="387,831,500,967"/>
+<area shape="rect" id="node9" title=" " alt="" coords="271,639,325,717"/>
+<area shape="rect" id="node10" title=" " alt="" coords="445,5,484,83"/>
+<area shape="rect" id="node13" href="$classMindWorldComponent.html" title="Member of pattern Decorator as Component. Defines basic functionality for MindWorldComponents." alt="" coords="481,145,632,267"/>
+<area shape="rect" id="node11" href="$classOwnMW.html" title="Member of pattern Composite as Composite. Is the one MindWorld, each Human has one...." alt="" coords="529,603,645,753"/>
+<area shape="rect" id="node12" href="$classMindWorld.html" title="Member of pattern Composite as Composite. &#160;Member of pattern ChainOfresponsibility as Client and as C..." alt="" coords="669,329,797,553"/>
+<area shape="rect" id="node14" href="$classThinkable.html" title="Member of pattern Composite as Component. Defines basic functionality for MindWorldComponents." alt="" coords="561,5,648,83"/>
+<area shape="rect" id="node15" title=" " alt="" coords="656,167,873,245"/>
+<area shape="rect" id="node16" title=" " alt="" coords="898,167,954,245"/>
+</map>

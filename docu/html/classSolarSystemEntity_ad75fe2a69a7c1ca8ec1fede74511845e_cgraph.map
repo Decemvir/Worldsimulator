@@ -1,0 +1,5 @@
+<map id="SolarSystemEntity::setSunRadius" name="SolarSystemEntity::setSunRadius">
+<area shape="rect" id="node1" title="Sets the suns radius." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node2" href="$classPlanetEntity.html#a8e63dd9427f67c55c8ce97bb45a2b9e7" title="Sets new radius for the planet." alt="" coords="192,13,388,39"/>
+<area shape="rect" id="node3" href="$classPlanetEntity.html#a8af289db91fcc1a3bd5c7382a856ba5c" title="Calculate sphere and texture coordinates." alt="" coords="436,13,603,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HumanHandler::useClonePrototypeMan" name="HumanHandler::useClonePrototypeMan">
+<area shape="rect" id="node1" title="Sets the &quot;clone prototype&quot; to Man. See also CloneAdmin." alt="" coords="5,31,256,57"/>
+<area shape="rect" id="node2" href="$classCloneAdmin.html#a818db43c19e87a5c41a7f955e51d6430" title="Returns the single instance of CloneAdmin. Instantiates a HumanBreeder and a Woman and Man as &quot;clone ..." alt="" coords="347,5,496,32"/>
+<area shape="rect" id="node4" href="$classCloneAdmin.html#a172268a146a74f22b61f27820b635061" title="Let the HumanBreeder use the Man as &quot;clone prototype&quot;." alt="" coords="304,56,539,83"/>
+<area shape="rect" id="node3" href="$classCloneAdmin.html#a5c5e5fc62239329a8a67b9babeac182b" title="Creates new CloneAdmin. Use Instance() to get instance of CloneAdmin." alt="" coords="587,5,757,32"/>
+</map>

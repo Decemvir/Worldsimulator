@@ -1,0 +1,5 @@
+<map id="SolarSystemEntity::calcNextStep" name="SolarSystemEntity::calcNextStep">
+<area shape="rect" id="node1" title="Calculates the next step for the solar system." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node2" href="$classViewOfEntities.html#a3f91b109df77a8cd2c83f42ec46ec3b7" title="Calculates the next step for every child." alt="" coords="192,13,385,39"/>
+<area shape="rect" id="node3" href="$classEntity.html#a3743e1b4ca7fa3a4e2a145a6d1bf76fc" title=" " alt="" coords="433,13,576,39"/>
+</map>

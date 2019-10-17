@@ -1,0 +1,12 @@
+<map id="Entity" name="Entity">
+<area shape="rect" id="node1" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="150,131,270,311"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html" title="Member of pattern Composite as Leaf. Member of pattern Adapter as Adapter and Target...." alt="" coords="45,359,205,803"/>
+<area shape="rect" id="node7" href="$classViewOfEntities.html" title="Member of pattern Composite as Composite. Defines an abstract graphical element that can contain othe..." alt="" coords="315,432,449,729"/>
+<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="175,5,245,83"/>
+<area shape="rect" id="node4" href="$classLowDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="7,924,157,1192"/>
+<area shape="rect" id="node5" href="$classMidDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="8,1313,156,1567"/>
+<area shape="rect" id="node6" href="$classHighDev__LFEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Adaptee...." alt="" coords="5,1615,159,1853"/>
+<area shape="rect" id="node8" href="$classPlanetEntity.html" title="Member of pattern Adapter as Adapter and Target. Redefines and adds to the interface functionality in..." alt="" coords="182,851,321,1265"/>
+<area shape="rect" id="node9" href="$classSolarSystemEntity.html" title="Member of pattern Facade as Subsystem classes. Implements interface functionality from the class View..." alt="" coords="345,931,504,1185"/>
+<area shape="rect" id="node10" href="$classUniverseEntity.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Singleton. Redefines and adds to t..." alt="" coords="528,851,687,1265"/>
+</map>

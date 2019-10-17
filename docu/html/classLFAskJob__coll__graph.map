@@ -1,0 +1,40 @@
+<map id="LFAskJob" name="LFAskJob">
+<area shape="rect" id="node1" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form ask anoth..." alt="" coords="1107,2600,1261,2809"/>
+<area shape="rect" id="node2" href="$classLFJob.html" title="Member of pattern Facade as Subsystem classes. Member of pattern Command as Command...." alt="" coords="1135,1725,1281,1964"/>
+<area shape="rect" id="node37" href="$classLFMeetJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form meet anot..." alt="" coords="1021,2328,1174,2537"/>
+<area shape="rect" id="node38" href="$classLFMoveJob.html" title="Member of pattern Command as ConcreteCommand. Defines a job that lets the working life form move towa..." alt="" coords="755,2027,909,2265"/>
+<area shape="rect" id="node3" href="$classLifeFormEntity.html" title="Member of pattern Composite as Leaf. Member of pattern Adapter as Adapter and Target...." alt="" coords="1239,1424,1399,1663"/>
+<area shape="rect" id="node4" href="$classEntity.html" title="Member of pattern Composite as Component. Defines an abstract graphical element that could be a part ..." alt="" coords="1933,432,2053,597"/>
+<area shape="rect" id="node29" href="$classViewOfEntities.html" title="Member of pattern Composite as Composite. Defines an abstract graphical element that can contain othe..." alt="" coords="1373,675,1507,957"/>
+<area shape="rect" id="node5" href="$classQObject.html" title=" " alt="" coords="2834,233,2905,311"/>
+<area shape="rect" id="node20" href="$classLFJobHandler.html" title="Member of pattern Singleton. Member of pattern Facade as Facade. Member of pattern Command as Caller...." alt="" coords="3153,682,3351,950"/>
+<area shape="rect" id="node24" href="$classDestinyAdapter.html" title="Member of pattern Adapter as Adapter and Target. Member of pattern Adapter as Client...." alt="" coords="2774,1064,2965,1361"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1904,233,2083,311"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1578,233,1625,311"/>
+<area shape="rect" id="node28" href="$classPlanetEntity.html" title="Member of pattern Adapter as Adapter and Target. Redefines and adds to the interface functionality in..." alt="" coords="1249,1079,1388,1347"/>
+<area shape="rect" id="node8" href="$classLifeForm.html" title="Member of pattern ChainOfresponsibility as Handler. Member of pattern Adapter as Adaptee...." alt="" coords="339,1130,469,1295"/>
+<area shape="rect" id="node9" title=" " alt="" coords="384,476,523,553"/>
+<area shape="rect" id="node11" href="$classPlanet.html" title="Member of pattern Adapter as Client. Member of pattern Adapter as Adaptee. An instance of this class ..." alt="" coords="362,755,449,877"/>
+<area shape="rect" id="node10" title=" " alt="" coords="283,777,330,855"/>
+<area shape="rect" id="node12" href="$classCartesianCoordAdapter.html" title="Member of pattern Adapter as Adapter and Target. This class can return polar coordinates and cartesia..." alt="" coords="69,432,253,597"/>
+<area shape="rect" id="node13" href="$classCoordinates.html" title="Member of pattern Adapter as Adaptee. An instance of this class represents a point in a 3 dimensional..." alt="" coords="817,175,935,369"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1079,5,1139,83"/>
+<area shape="rect" id="node15" title=" " alt="" coords="171,777,243,855"/>
+<area shape="rect" id="node16" title=" " alt="" coords="589,777,702,855"/>
+<area shape="rect" id="node17" title=" " alt="" coords="726,777,815,855"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2997,777,3128,855"/>
+<area shape="rect" id="node19" title=" " alt="" coords="840,777,907,855"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3175,469,3329,561"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2909,476,3096,553"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2034,777,2121,855"/>
+<area shape="rect" id="node25" href="$classDestiny.html" title="Member of pattern Adapter as Adaptee. Member of pattern Singleton. Member of pattern ChainOfresponsib..." alt="" coords="2407,733,2601,899"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2723,777,2831,855"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2145,777,2332,855"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1397,476,1534,553"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1531,777,1706,855"/>
+<area shape="rect" id="node32" title=" " alt="" coords="931,777,1090,855"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1730,777,1889,855"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1114,777,1246,855"/>
+<area shape="rect" id="node35" title=" " alt="" coords="806,1505,973,1582"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1502,1505,1594,1582"/>
+</map>
